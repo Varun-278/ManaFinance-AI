@@ -1,0 +1,45 @@
+ALGORITHMIC TRADING & MARKET MICROSTRUCTURE 
+
+1. MARKET MICROSTRUCTURE BASICS
+• Order types (market, limit, stop)
+• Bid-ask spread
+• Market depth
+• Order book dynamics
+
+2. PRICE FORMATION
+Prices formed through:
+• Liquidity demand vs supply
+• Order flow
+• Market maker actions
+
+3. HIGH-FREQUENCY TRADING (HFT)
+Strategies:
+• Market making
+• Statistical arbitrage
+• Latency arbitrage
+
+4. ALGO TRADING STRATEGIES
+• Trend following
+• Mean reversion
+• Pairs trading
+• Momentum strategies
+• Breakout trading
+
+5. EXECUTION ALGORITHMS
+• VWAP
+• TWAP
+• POV (Percentage of Volume)
+• Smart order routing
+
+6. RISKS IN ALGO TRADING
+• Overfitting
+• Slippage
+• Market impact cost
+• Model failure
+• Flash crashes
+
+7. REGULATORY FRAMEWORK (INDIA)
+• SEBI guidelines on algo access
+• Co-location norms
+• Risk controls (kill switches)
+

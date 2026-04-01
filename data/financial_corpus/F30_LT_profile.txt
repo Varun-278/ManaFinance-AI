@@ -1,0 +1,46 @@
+Company: Larsen & Toubro Ltd. (L&T)
+Industry: Construction / Infrastructure / Engineering
+ISIN: INE018A01030
+Symbol: LT
+
+1. Business Overview
+L&T is India’s largest engineering and construction conglomerate with presence in EPC projects (infrastructure, power, hydrocarbons), heavy engineering, defense, IT services (via subsidiaries), and financial services.
+
+2. Revenue Drivers
+- Order inflows in infrastructure and hydrocarbon EPC.
+- Execution of large domestic and international projects.
+- Subsidiary contributions (IT, technology, finance).
+
+3. Cost Structure
+- Project materials and subcontracting.
+- Employee and site execution costs.
+- Working capital and finance costs for large EPC orders.
+
+4. Competitive Advantages
+- Strong track record in complex EPC projects.
+- Diversified order book across sectors and geographies.
+- High engineering capabilities and pre-qualification credentials.
+
+5. Risks
+- Project delays and cost overruns.
+- Working capital lock-up impacting cash flows.
+- Commodity and labor inflation pressures.
+
+6. Dataset-Based Behavior
+- Cyclical but structurally upward with infra cycles.
+- Volume spikes when large orders are announced.
+- High beta to Indian capex and investment cycle.
+
+7. Financial Theory Interpretation
+L&T is:
+- A capex cycle proxy for the Indian economy,
+- Valuation linked to order book visibility and execution margins.
+
+Key valuation metrics:
+- Order inflow growth,
+- Core EPC EBIT margins,
+- Reduction of non-core exposures.
+
+8. Outlook
+- Beneficiary of government infra push,
+- Divestment of non-core segments to improve ROE.

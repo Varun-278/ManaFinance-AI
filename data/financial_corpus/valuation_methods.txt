@@ -1,0 +1,74 @@
+VALUATION METHODS
+
+1. INTRINSIC VALUATION METHODS
+a) Discounted Cash Flow (DCF)
+DCF = Σ (Free Cash Flow / (1 + WACC)^t) + Terminal Value
+Terminal value approaches:
+- Perpetuity growth model
+- Exit multiple model
+
+b) Dividend Discount Model (DDM)
+Applicable for stable dividend-paying firms.
+
+c) Residual Income Model (Economic Profit)
+Value = Book Value + Σ (Residual Income discounted)
+
+2. RELATIVE VALUATION (MULTIPLES)
+Common multiples:
+- P/E (Price / Earnings)
+- EV/EBITDA
+- EV/Sales
+- P/BV
+- PEG ratio
+- Price-to-Cash Flow
+
+Benchmarking:
+- Compare with peers
+- Compare with historical levels
+- Adjust for business cycle
+
+3. SUM OF THE PARTS (SOTP)
+Used for conglomerates.
+Value = Σ (Value of each business unit)
+
+4. NET ASSET VALUE (NAV)
+Used for:
+- Real estate companies
+- Investment holding firms
+- REITs and InvITs
+
+5. OPTION-BASED VALUATION
+Real options approach used when:
+- Projects have flexibility
+- Commodity-driven valuations
+- Tech startups
+
+6. STARTUP VALUATION
+Methods:
+- Venture Capital method
+- Scorecard valuation
+- Berkus method
+- Market multiples
+
+7. SECTOR-SPECIFIC VALUATION
+Banking:
+- P/BV and ROE-based valuation
+- Gordon Growth Model
+
+IT Services:
+- EV/EBITDA
+- Revenue multiples for fast-growth firms
+
+Pharma:
+- Risk-adjusted NPV for drug pipelines
+
+Energy:
+- NAV + long-term cash flows
+
+8. KEY VALUATION DRIVERS
+- Growth
+- Profitability
+- Margins
+- Cash flow generation
+- Competitive advantage (moat)
+- Cost of capital

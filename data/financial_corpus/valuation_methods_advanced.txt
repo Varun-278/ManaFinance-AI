@@ -1,0 +1,64 @@
+ADVANCED VALUATION METHODS 
+
+1. INTRINSIC VALUATION
+a. Discounted Cash Flow (DCF)
+DCF = Σ (FCF_t / (1 + WACC)^t) + Terminal Value
+Key Inputs:
+• Revenue growth assumptions
+• Operating margins
+• CAPEX & reinvestment rate
+• Working capital needs
+• WACC (Cost of equity + cost of debt)
+
+Terminal Value Models:
+• Perpetuity Growth (Gordon Model)
+• Exit multiple method
+
+b. Dividend Discount Model (DDM)
+Applicable for:
+• Mature companies
+• Banks & NBFCs
+Value = Σ (Dividends / (1 + k)^t)
+
+2. RELATIVE VALUATION
+Key Multiples:
+• P/E (price-to-earnings)
+• EV/EBITDA
+• P/B (best for banks)
+• EV/Sales (early-stage companies)
+
+Drivers of multiples:
+• ROE, ROCE
+• Growth rate
+• Risk profile
+• Industry structure
+
+3. ASSET-BASED VALUATION
+Used for:
+• Holding companies
+• Distress situations
+• Real estate companies
+NAV = Sum of fair value of assets – liabilities
+
+4. SUM OF THE PARTS (SOTP)
+Used when company has:
+• Multiple unrelated business units
+• Conglomerates (ex: Reliance, Tata)
+
+5. VALUATION OF FINANCIAL INSTITUTIONS
+Banks → P/B + ROE + GNPA/NNPA analysis  
+NBFCs → NIM, AUM growth, cost-to-income, credit cost
+
+6. VALUATION CHALLENGES
+• Cyclical earnings  
+• Commodities unpredictability  
+• Regulatory changes  
+• High interest rate sensitivity  
+• FX-linked volatility  
+
+7. MARKET EFFICIENCY TOPICS
+Semi-strong form EMH → Prices reflect publicly available info  
+But anomalies exist:
+• Value vs growth cycles
+• Momentum effects
+• Earnings drift

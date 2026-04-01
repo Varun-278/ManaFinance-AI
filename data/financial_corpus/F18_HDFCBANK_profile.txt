@@ -1,0 +1,44 @@
+Company: HDFC Bank Ltd.
+Industry: Financial Services (Private Sector Bank)
+ISIN: INE040A01034
+Symbol: HDFCBANK
+
+1. Business Overview
+HDFC Bank is India's largest private-sector bank providing retail banking, corporate banking, payments, SME lending, and treasury operations. It has a nationwide branch network and rapidly expanding digital channels.
+
+2. Revenue Drivers
+- Net interest income from retail and SME loans.
+- Fee income: payments, cards, cross-selling.
+- Treasury operations.
+
+3. Cost Structure
+- Funding costs (CASA deposits are key).
+- Credit costs from loan delinquencies.
+- IT and branch expansion expenses.
+
+4. Competitive Advantages
+- Industry-leading asset quality.
+- High CASA ratio lowering funding cost.
+- Strong credit underwriting.
+
+5. Key Risks
+- Macro slowdowns affecting retail loan growth.
+- Regulatory scrutiny post merger with HDFC.
+- Competition from fintech and small finance banks.
+
+6. Dataset Behavior
+- Consistent upward trend with low volatility.
+- High liquidity, strong institutional participation.
+
+7. Financial Theory Interpretation
+HDFC Bank behaves like a:
+- Stable compounder,
+- With valuation driven by ROE, NIM, and stable credit cost.
+
+Its moat comes from:
+- Low-cost liabilities,
+- Scalable digital banking infrastructure.
+
+8. Outlook
+- Cross-selling opportunities post-HDFC merger.
+- Strong traction in cards and payments ecosystem.

@@ -1,0 +1,40 @@
+Company: Nestlé India Ltd.
+Industry: Consumer Goods (Food & Beverages)
+ISIN: INE239A01016
+Symbol: NESTLEIND
+
+1. Business Overview
+Nestlé India focuses on packaged foods including milk products (Milkmaid), beverages (Nescafé), instant noodles (Maggi), chocolates, and infant nutrition.
+
+2. Revenue Drivers
+- Maggi noodles and value-added food categories.
+- Beverages (Nescafé) and dairy products.
+- Infant nutrition (Nan, Lactogen).
+- Premium and health-oriented offerings.
+
+3. Cost Structure
+- Milk, wheat, sugar, and packaging materials.
+- Advertising and distribution.
+- Manufacturing and logistics.
+
+4. Competitive Strengths
+- Strong brand portfolio and consumer loyalty.
+- Premiumization with strong pricing power.
+- Large R&D and global innovation pipeline.
+
+5. Risks
+- Regulatory sensitivity in infant nutrition.
+- Input cost volatility.
+- Competition from HUL, ITC, domestic players.
+
+6. Dataset Observations
+- Very low volatility and consistent uptrend.
+- Defensive stock behavior during downturns.
+
+7. Financial Theory Interpretation
+Nestlé India behaves as:
+- A high-ROCE, low-beta staple,
+- With valuations driven by volume growth + pricing power.
+
+8. Outlook
+- Expansion in nutrition, snacking, premium coffee.

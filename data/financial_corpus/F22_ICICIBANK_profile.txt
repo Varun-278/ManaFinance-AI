@@ -1,0 +1,46 @@
+Company: ICICI Bank Ltd.
+Industry: Financial Services (Private Sector Bank)
+ISIN: INE090A01021
+Symbol: ICICIBANK
+
+1. Business Overview
+ICICI Bank is one of India's largest private-sector banks with a balanced retail–corporate loan book, strong digital banking capabilities, and subsidiaries in insurance, asset management, and securities.
+
+2. Revenue Drivers
+- Net interest income from retail and SME lending.
+- Fee income (credit cards, payments, bancassurance).
+- Treasury income.
+- Subsidiary contributions.
+
+3. Cost Structure
+- Funding costs (CASA + borrowings).
+- Credit provisioning.
+- Technology and compliance costs.
+
+4. Competitive Strengths
+- One of the best NPA reduction stories in India.
+- Digital-first banking infrastructure (iMobile, InstaBIZ).
+- Strong capital position enabling growth.
+
+5. Risks
+- Credit costs rising in economic slowdowns.
+- Increasing competition from fintechs.
+- Corporate loan book cyclicality.
+
+6. Dataset Behavior
+- Liquid, stable, growing trend.
+- High correlation with broader banking sector cycles.
+- Volume boosts around quarterly earnings.
+
+7. Financial Theory Interpretation
+ICICI Bank’s valuation hinges on:
+- ROE expansion,
+- Credit cost stability,
+- NIM sustainability.
+
+It reflects a maturing growth bank transitioning into a compounding franchise.
+
+8. Outlook
+- Retail loan growth,
+- Payments and digital ecosystem expansion,
+- Strong balance sheet guiding better valuations.

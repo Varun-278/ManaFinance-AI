@@ -1,0 +1,42 @@
+Company: Mahindra & Mahindra Ltd.
+Industry: Automobile (SUVs, Tractors)
+ISIN: INE101A01026
+Symbol: M&M
+
+1. Business Overview
+M&M is a leader in utility vehicles and the world’s largest tractor manufacturer by volumes. The company has businesses in farm equipment, passenger SUVs, EVs, and subsidiaries in IT & finance.
+
+2. Revenue Drivers
+- SUV sales (Scorpio, XUV series, Thar).
+- Tractor and farm equipment.
+- Commercial vehicles.
+- Subsidiaries: Tech Mahindra, Mahindra Finance, etc.
+
+3. Cost Structure
+- Commodity inputs (steel, rubber).
+- Manufacturing and logistics.
+- R&D for EVs and farm automation.
+
+4. Competitive Strengths
+- Strong rural reach via tractor business.
+- Successful SUV brand franchises.
+- Expanding EV roadmap (BE series).
+
+5. Risks
+- Cyclicality in rural income and tractor demand.
+- EV competition.
+- Supply chain constraints (semiconductors).
+
+6. Dataset Behavior
+- High correlation with rural/agri cycles.
+- Volume spikes during new SUV launch cycles.
+
+7. Financial Theory Interpretation
+M&M combines:
+- Cyclical auto characteristics,
+- Stable tractor cash flows,
+- Optionality via EV and subsidiaries.
+
+8. Outlook
+- Aggressive EV rollout in SUVs,
+- Strong farm mechanization demand.

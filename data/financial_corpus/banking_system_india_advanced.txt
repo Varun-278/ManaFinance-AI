@@ -1,0 +1,57 @@
+BANKING SYSTEM IN INDIA 
+
+1. STRUCTURE
+• Public sector banks
+• Private sector banks
+• Foreign banks
+• Cooperative banks
+• Small finance banks
+• Payments banks
+
+2. KEY PERFORMANCE METRICS
+• NIM (Net Interest Margin)
+• CASA ratio
+• AUM growth
+• GNPA / NNPA
+• Credit cost
+• Capital adequacy (CRAR)
+
+3. REGULATIONS (RBI)
+• Basel III norms
+• Prompt Corrective Action (PCA)
+• Liquidity Coverage Ratio (LCR)
+• Statutory guidelines (CRR, SLR)
+
+4. NPA CYCLE DYNAMICS
+NPA rises due to:
+• Economic slowdown
+• Sectoral stress (infra, power)
+• Poor underwriting
+• Corporate over-leveraging
+
+Repair mechanisms:
+• IBC (Insolvency code)
+• ARC sales
+• Write-offs + provisioning
+
+5. BANK BUSINESS MODELS
+Retail-focused banks (HDFC Bank, Kotak):
+• Lower credit risk
+• Higher fee income
+
+Corporate-focused banks:
+• Higher yields
+• Higher NPA risk
+
+6. DIGITAL TRANSFORMATION
+• UPI dominance
+• Digital KYC
+• Neo-banking models
+• Automation in credit scoring
+
+7. RISKS
+• ALM mismatch
+• Wholesale funding dependence
+• Credit concentration
+• Interest rate cycles
+

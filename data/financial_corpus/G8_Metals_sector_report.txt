@@ -1,0 +1,217 @@
+SECTOR REPORT — METALS (STEEL, NON-FERROUS, MINING, ALUMINIUM)
+---------------------------------------------------------------
+
+1. Sector Overview
+The Indian metals sector covers steel, non-ferrous metals (aluminium, copper, zinc), and mining. The sector is deeply cyclical, driven by:
+- Global commodity prices,
+- Domestic infrastructure spending,
+- Real estate and construction cycles,
+- Manufacturing and automotive demand,
+- Energy and raw material availability (coal, bauxite, iron ore).
+
+NIFTY50 companies included in your universe:
+- TATASTEEL (Steel — integrated, global operations)
+- JSWSTEEL (Steel — domestic-focused, scale-based growth)
+- HINDALCO (Aluminium + copper + Novelis downstream)
+- VEDL (Vedanta Ltd. — diversified metals & mining, oil & gas)
+
+Metals are globally traded commodities, meaning earnings are highly sensitive to international prices, currency movement, and cost cycles.
+
+2. Sub-Sector Classification
+
+(1) Steel (Ferrous Metals):
+- TATASTEEL
+- JSWSTEEL  
+Drivers: steel prices (HRC, CRC), coking coal cost, iron ore cost, China production volumes, global economic cycles.
+
+(2) Aluminium:
+- HINDALCO  
+Drivers: LME aluminium prices, alumina spreads, coal costs, downstream packaging demand (via Novelis).
+
+(3) Zinc / Lead / Silver / Mining:
+- VEDL  
+Drivers: LME metal prices, mining output, cost of extraction, commodity cycles.
+
+(4) Integrated Commodity Conglomerates:
+- VEDL  
+Diversified across: zinc, aluminium, power, oil & gas, iron ore.
+
+3. Business Model Summary
+
+TATASTEEL:
+- Integrated steel producer with mining linkages.
+- Operations across India, Europe, and Southeast Asia.
+- Cost efficiency from captive iron ore; vulnerability in coking coal imports.
+- Europe business historically lower margin and cyclical.
+
+JSWSTEEL:
+- Scale-based growth; asset-light model compared to Tata.
+- Higher dependence on purchased iron ore (vs captive mines).
+- Strong domestic presence, modern capacity expansions.
+- Profitability driven by spreads: steel price – raw material cost.
+
+HINDALCO:
+- Integrated aluminium major; upstream + downstream.
+- Novelis (global subsidiary) is world leader in aluminium rolled products and recycling.
+- More stable due to downstream contract-based revenues.
+- Coal availability affects upstream smelting costs.
+
+VEDL:
+- Diversified commodity portfolio offers natural hedging.
+- Dominant in zinc through Hindustan Zinc.
+- Exposure to global aluminium, zinc, lead, copper, iron ore, oil & gas.
+- Highly linked to commodity cycles; sensitive to debt and regulatory decisions.
+
+4. Key Performance Metrics
+
+Steel Companies (TATASTEEL, JSWSTEEL):
+- Realizations (₹/ton)
+- Spreads (HRC price – coking coal)
+- Production volume (MT)
+- Capacity utilization
+- Coking coal and iron ore cost
+- EBITDA per ton
+- Debt reduction and leverage ratios
+
+Aluminium (HINDALCO):
+- LME aluminium price ($/ton)
+- Alumina–aluminium conversion margin
+- Novelis EBITDA per ton
+- Energy cost (coal linkage availability)
+- Recycled aluminium share
+
+Vedanta (VEDL):
+- LME zinc, aluminium, copper prices
+- Mining output (tonnage)
+- Cost of production (CoP)
+- Contribution from oil & gas segment
+- Regulatory taxes/royalties
+
+5. Industry Structure & Competition
+
+Steel:
+- Highly competitive; India is world’s second-largest steel producer.
+- Domestic demand from infra, autos, capital goods.
+- Global supply–demand influenced by China.
+
+Aluminium:
+- Market dominated by Hindalco and Vedanta in India.
+- Globally competitive due to power-intensive production.
+
+Mining:
+- Significant regulatory oversight.
+- High dependence on global commodity cycles.
+
+Competitive Advantage Summary:
+- Tata Steel → Captive mines; global presence.
+- JSW Steel → Scale, efficiency, cost discipline.
+- Hindalco → Downstream Novelis stabilizes cyclical earnings.
+- Vedanta → Diversified hedge across metals and energy.
+
+6. Growth Drivers
+
+(1) Infrastructure Push:
+- Roads, railways, defense, housing, capex cycles.
+- Strong positive correlation with steel demand.
+
+(2) Automotive Sector Growth:
+- Higher demand for steel, aluminium, speciality alloys.
+
+(3) Energy Transition:
+- Aluminium demand rises for EVs, renewables, packaging.
+
+(4) Capital Expansion:
+- Large brownfield and greenfield capacity additions.
+
+(5) Recycling & Sustainability:
+- Aluminium recycling growing rapidly (lower carbon footprint).
+
+7. Major Risks
+
+- Commodity Price Volatility:
+  Unpredictable swings in steel, coal, aluminium, zinc.
+
+- Raw Material Cost Inflation:
+  Particularly coking coal (imported) for steel players.
+
+- Regulatory Uncertainty:
+  Export duties, mining regulations, environmental norms.
+
+- China Risk:
+  China’s oversupply depresses global steel/aluminium prices.
+
+- Leverage Risk:
+  Metals companies historically carry high debt.
+
+- Energy Cost Risk:
+  Smelters require massive energy; power cost spikes hurt margins.
+
+8. Cyclicality & Earnings Sensitivity
+
+Steel (Tata Steel, JSW Steel):
+- Highly cyclical.
+- Earnings spike when steel prices soar, collapse when spreads compress.
+
+Aluminium (Hindalco):
+- Moderately cyclical.
+- Downstream Novelis adds stability vs pure upstream smelters.
+
+Mining (Vedanta):
+- Highly sensitive to LME prices.
+- Diversification reduces peak–trough volatility.
+
+Earnings sensitivity examples:
+- A $100 increase in coking coal cost can wipe significant EBITDA/ton.
+- A $200 rise in LME aluminium can boost upstream margins sharply.
+- Zinc prices falling reduces Vedanta's cash flow materially.
+
+9. RAG-Friendly Fundamental Snippets
+
+- “Steel spreads (realization minus raw material cost) determine profitability.”
+- “Aluminium smelting is energy-intensive; power cost is the largest cost component.”
+- “Novelis provides stability through long-term OEM contracts.”
+- “Vedanta's earnings fluctuate with LME zinc, aluminium, and oil prices.”
+- “China is the largest swing factor for global metals pricing.”
+
+10. Scenario Analysis
+
+Scenario A — China cuts steel production:
+- Global steel prices rise.
+- Beneficial for Tata Steel and JSW Steel.
+
+Scenario B — Coking coal price spike:
+- Steel spreads compress.
+- JSW Steel more affected vs Tata Steel (due to captive ore advantage).
+
+Scenario C — Strong infrastructure pipeline:
+- Domestic demand rises.
+- CV + capital goods sector revival boosts steel demand.
+
+Scenario D — Strong LME aluminium rally:
+- Hindalco upstream margins rise sharply.
+- Novelis provides additional stability.
+
+Scenario E — Dollar strengthens:
+- LME commodities weaken → headwind for metals.
+- But INR depreciation provides partial export benefit.
+
+11. Quick Company Snapshots
+
+TATASTEEL:
+- Integrated steel major.
+- Captive mines = cost advantage.
+- Europe operations add volatility.
+
+JSWSTEEL:
+- Operational efficiency and continuous expansion.
+- High dependence on purchased raw materials.
+
+HINDALCO:
+- Upstream aluminium + downstream Novelis stability.
+- Strong global positioning.
+
+VEDL:
+- Diversified commodities.
+- Highly sensitive to global prices and regulatory decisions.
+
+End of document.

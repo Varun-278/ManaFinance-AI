@@ -1,0 +1,51 @@
+Company: Bajaj Finance Ltd.
+Industry: Financial Services (NBFC – Consumer & SME Lending)
+ISIN: INE296A01024
+Symbol: BAJFINANCE
+
+1. Business Overview
+Bajaj Finance is one of India’s largest and most profitable non-banking financial companies (NBFCs), specializing in consumer durable loans, personal loans, co-branded credit cards, SME financing, digital loans, and commercial lending. The company operates through a highly diversified and data-driven lending model backed by risk analytics.
+
+2. Revenue Drivers
+- Interest income from consumer durable financing and personal loans.
+- SME and commercial lending.
+- Credit card fees (via co-branded partnerships).
+- Cross-sell through existing customer base.
+
+3. Cost Structure
+- Cost of funds (bank borrowings + NCDs).
+- Credit costs based on delinquency trends.
+- Operating expenses (technology and branch expansion).
+- Marketing and customer acquisition.
+
+4. Competitive Advantage
+- One of the strongest risk-assessment engines among NBFCs.
+- Very high cross-sell efficiency due to large customer pool.
+- Fast loan disbursal turnaround (digital-first model).
+- High-quality co-branded card portfolio.
+
+5. Key Risks
+- Asset quality sensitivity during economic downturns.
+- Regulatory constraints on NBFC leverage.
+- Rising competition from fintechs and small finance banks.
+
+6. Stock Behavior Insights (from dataset)
+- High sensitivity to macro interest rate cycles.
+- Sudden volume surges around quarterly results.
+- Strong long-term uptrend behavior typical of high-growth financials.
+
+7. Financial Theory Interpretation
+Bajaj Finance mimics characteristics of:
+- A growth stock (high P/E multiples),
+- A leveraged financial firm (sensitive to credit cycles).
+
+Valuation is driven by:
+- AUM growth,
+- Net interest margins (NIM),
+- Asset quality (NPA trends),
+- Cost-to-income ratio.
+
+8. Outlook Themes
+- Transition toward a full digital bank architecture.
+- Expansion into payments and deposits via Bajaj Finserv’s ecosystem.
+- Improved diversification of lending book.

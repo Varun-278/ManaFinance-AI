@@ -1,0 +1,45 @@
+Company: Britannia Industries Ltd.
+Industry: Consumer Goods (Food & Beverages)
+ISIN: INE216A01030
+Symbol: BRITANNIA
+
+1. Business Overview
+Britannia is one of India’s largest food companies producing biscuits, dairy products, cakes, breads, and snacks under brands such as Good Day, Marie, Milk Bikis, Tiger, and NutriChoice.
+
+2. Revenue Drivers
+- Packaged biscuits and bakery categories.
+- Dairy and value-added products.
+- Rural penetration and distribution strength.
+- Premiumisation of health and gourmet offerings.
+
+3. Cost Structure
+- Raw materials: wheat, sugar, milk, palm oil.
+- Advertising & distribution.
+- Manufacturing and logistics.
+
+4. Competitive Advantage
+- Deep brand loyalty and everyday consumption.
+- Efficient supply chain presence across India.
+- High-margin premium biscuit portfolio.
+
+5. Risks
+- Commodity price volatility impacting gross margins.
+- Intense competition from ITC, Parle, Nestlé.
+- Rural slowdown sensitivity.
+
+6. Dataset-Based Stock Behavior
+- Low volatility, stable trend.
+- Moderate volume surges during commodity inflation cycles.
+- Defensive stock behavior during market corrections.
+
+7. Financial Theory View
+Britannia represents a:
+- Low-beta FMCG stock,
+- Strong FCF generator,
+- High-ROCE consumer staple.
+
+Pricing power ensures margin stability even during inflation.
+
+8. Outlook
+- Expansion into adjacent bakery and dairy categories.
+- Strengthening rural distribution.

@@ -1,0 +1,44 @@
+Company: GAIL (India) Ltd.
+Industry: Energy (Natural Gas Transmission & Marketing)
+ISIN: INE129A01019
+Symbol: GAIL
+
+1. Business Overview
+GAIL is India's largest natural gas transmission and distribution company engaged in gas processing, LPG production, petrochemicals, and pipeline infrastructure development.
+
+2. Revenue Drivers
+- Gas transmission tariffs (stable).
+- Gas marketing margins (volatile).
+- Petrochemical product realizations.
+- Long-term supply contracts with LNG suppliers.
+
+3. Cost Structure
+- Gas procurement cost.
+- Pipeline maintenance and expansion capex.
+- LNG transportation and regasification.
+- Petrochemical plant operations.
+
+4. Competitive Strength
+- Monopoly-like position in gas transmission.
+- Long-distance pipeline network across India.
+- Rising domestic gas demand (CGD expansion).
+
+5. Risks
+- LNG import price volatility.
+- Regulatory changes in gas pricing.
+- Petrochemical margin contraction.
+
+6. Dataset Behavior
+- Low volatility and stable mean-reverting action.
+- Volume increases around LNG policy changes.
+- Periodic spikes correlated with petrochemical cycle.
+
+7. Financial Theory Interpretation
+GAIL operates like a:
+- Natural monopoly,
+- Regulated utility (for transmission),
+- Cyclical petrochemical player (for marketing).
+
+8. Outlook
+- National gas grid expansion boosting volumes.
+- Diversification into hydrogen and renewables.

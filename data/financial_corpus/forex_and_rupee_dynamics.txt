@@ -1,0 +1,38 @@
+FOREX MARKETS & RUPEE DYNAMICS 
+
+1. FACTORS INFLUENCING USD/INR
+• Interest rate differentials (India vs US)
+• Capital flows (FPI, FDI)
+• Crude oil prices (India = net importer)
+• RBI intervention
+• Inflation differentials
+• Global risk sentiment
+
+2. TYPES OF EXCHANGE RATE REGIMES
+India follows a managed float.
+RBI intervenes to stabilize volatility, not to fix level.
+
+3. BALANCE OF PAYMENTS (BoP)
+Components:
+• Current Account (trade balance, services, transfers)
+• Capital Account (FDI, FPI)
+• Financial Account (debt, equity flows)
+
+4. IMPACT OF RUPEE MOVEMENT
+Rupee Depreciation:
+• Boosts exports
+• Raises import bill (oil-heavy)
+• Raises inflation
+
+Rupee Appreciation:
+• Reduces import costs
+• Hurts IT/pharma export competitiveness
+
+5. RBI INTERVENTION TOOLS
+• FX swaps
+• Spot purchases/sales
+• Forward market operations
+
+6. FOREX RESERVES
+Built to protect against external shocks.
+

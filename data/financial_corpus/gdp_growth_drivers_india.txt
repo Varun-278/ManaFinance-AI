@@ -1,0 +1,51 @@
+GDP GROWTH DRIVERS IN INDIA 
+
+1. GDP STRUCTURE
+GDP = C + I + G + (X – M)
+Where:
+C = Consumption (largest component)
+I = Investment
+G = Government spending
+X – M = Net exports
+
+2. MAJOR GROWTH DRIVERS
+Consumption:
+• Stable due to demographic profile
+• Rural vs urban divergence
+
+Investment:
+• Driven by capacity utilisation
+• Private capex cycles
+• FDI flows
+
+Government Spending:
+• Infrastructure push
+• Welfare schemes
+
+Exports:
+• IT services
+• Pharma
+• Engineering goods
+• Commodity cycles influence performance
+
+3. CYCLICAL DRIVERS
+• Credit cycles
+• Business confidence
+• Global demand
+• Energy prices
+• Monsoon impact on agriculture
+
+4. STRUCTURAL DRIVERS
+• Digital economy
+• Manufacturing reforms (PLI schemes)
+• Urbanization
+• Formalization of economy
+• Labour reforms
+
+5. RISKS TO GROWTH
+• Global recession
+• High interest rates
+• Fiscal tightening
+• Banking system stress
+• Commodity shocks
+

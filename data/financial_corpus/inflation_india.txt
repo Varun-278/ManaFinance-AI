@@ -1,0 +1,59 @@
+INFLATION IN INDIA
+
+1. CPI (PRIMARY MEASURE)
+India uses CPI (Consumer Price Index) as the primary inflation indicator.
+CPI basket weights:
+- Food & beverages ~ 46%
+- Housing ~ 10%
+- Fuel & light ~ 7%
+- Core inflation (ex-food & fuel) ~ 40%
+
+2. TYPES OF INFLATION
+a) Demand-pull inflation  
+b) Cost-push inflation  
+c) Structural inflation  
+d) Imported inflation  
+e) Food inflation (highly volatile, monsoon-driven)
+
+3. INFLATION DIFFERENTIAL: INDIA VS WORLD
+India’s inflation is more sensitive to:
+- Food shocks
+- Crude oil imports
+- Supply chain disruptions
+- Fiscal policy
+
+4. ROLE OF RBI
+RBI targets 4% ± 2%.  
+Tools:
+- Repo rate
+- CRR, SLR
+- Liquidity operations
+- Communication/forward guidance
+
+5. CORE VS HEADLINE INFLATION
+Core inflation reflects underlying demand.
+Headline inflation includes volatile food & fuel components.
+
+6. DRIVERS OF INFLATION (2020–2024 Examples)
+- Covid-induced supply disruptions
+- Global commodity super cycle
+- Russia–Ukraine conflict affecting crude and fertilizers
+- El Niño–induced food inflation
+
+7. MEASURING INFLATION EXPECTATIONS
+Indicators:
+- Household surveys
+- G-sec inflation-indexed yields
+- Corporate price-setting behavior
+
+8. ANTI-INFLATION POLICY OPTIONS
+- Monetary tightening
+- Fiscal consolidation
+- Food supply management
+- Import duty adjustments
+- Export controls (temporary)
+
+9. LONG-TERM RISKS
+- Climate impact on food  
+- Rupee depreciation  
+- Energy security  

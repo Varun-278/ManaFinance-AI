@@ -1,0 +1,53 @@
+Company: HCL Technologies Ltd.
+Industry: IT Services & Consulting
+ISIN: INE860A01027
+Symbol: HCLTECH
+
+1. Business Overview
+HCL Technologies is a leading global IT services provider offering software development, cloud services, engineering R&D, digital transformation, cybersecurity, and infrastructure management across more than 50 countries.
+
+Its business mix includes:
+- IT & Business Services (core outsourcing),
+- Engineering & R&D services,
+- Products & Platforms (e.g., DRYiCE).
+
+2. Revenue Drivers
+- Long-term outsourcing contracts.
+- Cloud migration projects.
+- ER&D engagements in telecom, auto, and manufacturing.
+- Product licenses and recurring support revenue.
+
+3. Cost Structure
+- Employee salaries (largest cost).
+- Subcontracting and training.
+- Onsite–offshore delivery costs.
+- Technology investments.
+
+4. Competitive Advantages
+- Strong ER&D capability, differentiating from peers.
+- Broad client base with high retention.
+- Proprietary products providing annuity revenue.
+
+5. Risks
+- Slowdown in US/Europe tech spending.
+- Talent supply shortages increasing wages.
+- FX impact from USD/INR movements.
+
+6. Dataset-Based Stock Behavior
+- Low-to-moderate volatility, typical of IT services.
+- Earnings-related volume surges each quarter.
+- Correlation with NASDAQ tech sentiment.
+
+7. Financial Theory Interpretation
+HCL behaves like:
+- A globally diversified export-oriented firm,
+- With margins sensitive to wage inflation and INR appreciation.
+
+Valuation influenced by:
+- Deal wins,
+- EBIT margins,
+- Recurring revenue growth.
+
+8. Outlook
+- Hybrid cloud and cybersecurity demand growth.
+- Expanding ER&D portfolio in automotive and telecom.

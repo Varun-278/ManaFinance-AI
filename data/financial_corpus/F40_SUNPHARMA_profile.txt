@@ -1,0 +1,41 @@
+Company: Sun Pharmaceutical Industries Ltd.
+Industry: Pharmaceuticals
+ISIN: INE044A01036
+Symbol: SUNPHARMA
+
+1. Business Overview
+Sun Pharma is India’s largest pharma company with strengths in generics, specialty products (especially dermatology), and branded prescriptions in India.
+
+2. Revenue Drivers
+- US dermatology & generics.
+- India branded formulations.
+- Specialty pharma (Ilumya).
+- Emerging markets.
+
+3. Cost Structure
+- R&D expenditure,
+- Manufacturing costs,
+- Compliance and regulatory adherence.
+
+4. Competitive Advantages
+- Leadership in chronic therapies in India.
+- Specialty pharma pipeline improving margins.
+- Strong distribution and doctor-connect ecosystem.
+
+5. Risks
+- US FDA plant compliance issues.
+- US generics pricing pressure.
+- Currency fluctuations.
+
+6. Dataset Behavior
+- Moderate volatility with defensive tendencies.
+- Volume surges around specialty drug approvals.
+
+7. Financial Theory Interpretation
+Sun behaves like:
+- A hybrid of generic + specialty pharma,
+- Margin expansion story driven by specialty launches.
+
+8. Outlook
+- Higher specialty contribution,
+- Expanding dermatology footprint.

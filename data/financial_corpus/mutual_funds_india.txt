@@ -1,0 +1,46 @@
+MUTUAL FUNDS IN INDIA 
+
+1. TYPES OF MUTUAL FUNDS
+a) Equity funds
+b) Debt funds
+c) Hybrid funds
+d) Sector/thematic funds
+e) Index funds
+f) Liquid/overnight funds
+
+2. FUND STRUCTURE
+Sponsors → Trustees → AMC → Fund Manager → Custodian
+
+3. NAV DETERMINATION
+NAV = (Market value of securities – Liabilities) / Units outstanding  
+NAV changes daily based on market prices and fund performance.
+
+4. SEBI CATEGORIES
+35 distinct categories under equity, debt, and hybrid.
+
+5. PERFORMANCE METRICS
+- CAGR  
+- Sharpe ratio  
+- Alpha  
+- Beta  
+- Sortino ratio  
+- Expense ratio  
+
+6. RISKS
+- Market risk  
+- Interest rate risk  
+- Credit risk  
+- Liquidity risk  
+
+7. TAXATION
+Equity:
+- STCG: 15%
+- LTCG: 10% above ₹1 lakh
+
+Debt:
+- Taxed as per slab rate (post 2023 changes)
+
+8. INDUSTRY TRENDS
+- Rapid rise of SIPs  
+- Passive investing growth  
+- Investor education initiatives  

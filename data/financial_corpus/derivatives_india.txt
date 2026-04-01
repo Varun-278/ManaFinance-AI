@@ -1,0 +1,46 @@
+DERIVATIVES MARKET IN INDIA 
+
+1. PURPOSE OF DERIVATIVES
+Derivatives help:
+- Hedge risk
+- Speculate
+- Arbitrage
+- Improve market efficiency
+
+2. TYPES OF DERIVATIVES
+a) Futures  
+b) Options  
+c) Forwards  
+d) Swaps (OTC)  
+
+3. EQUITY DERIVATIVES
+NSE is the world’s largest derivatives exchange by volume.
+
+Products:
+- Index futures & options (NIFTY, BANKNIFTY)
+- Stock futures & options (F&O list)
+
+4. OPTION GREEKS
+Delta — sensitivity to price  
+Gamma — sensitivity to delta  
+Theta — time decay  
+Vega — sensitivity to volatility  
+Rho — sensitivity to interest rates  
+
+5. IMPLIED VOLATILITY
+High IV = expensive options  
+Low IV = cheaper options  
+India VIX measures market volatility expectations.
+
+6. STRATEGIES
+- Covered call  
+- Protective put  
+- Bull call spread  
+- Iron condor  
+- Calendar spreads  
+
+7. RISKS
+- Leverage risk  
+- Liquidity risk  
+- Gap risk  
+- Volatility crush  

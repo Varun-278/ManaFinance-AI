@@ -1,0 +1,43 @@
+Company: Axis Bank Ltd.
+Industry: Financial Services (Banking)
+ISIN: INE238A01034
+Symbol: AXISBANK
+
+1. Business Overview
+Axis Bank is one of India’s largest private-sector banks with operations across retail banking, corporate banking, treasury, and payments.
+
+2. Revenue Streams
+- Net interest income (NII) from lending.
+- Fee income from cards, payments, and retail products.
+- Corporate banking fees and treasury operations.
+
+3. Cost Structure
+- Cost of funds (CASA ratio is a key variable).
+- Operational expenses (branch network, technology).
+- Credit costs (provisions for NPAs).
+
+4. Competitive Position
+- Strong corporate banking franchise.
+- Growing retail book with improving asset quality.
+- Large digital banking ecosystem.
+
+5. Risks
+- Credit cycle sensitivity.
+- Regulatory capital requirements.
+- Interest-rate risk impacting margins.
+
+6. Stock Behavior (your dataset)
+- High-volume days around macro events (RBI rate decisions).
+- Earnings-season volatility peaks.
+- Long trending phases during credit cycle recovery.
+
+7. Financial Theory Interpretation
+Axis Bank is influenced by:
+- Interest-rate cycles (affects NIMs),
+- Economic growth (loan demand),
+- Asset quality cycles (NPA improvements lead to re-rating).
+
+8. Outlook
+- Growth in retail lending.
+- CASA improvement strategy.
+- Investment in digital-first banking.

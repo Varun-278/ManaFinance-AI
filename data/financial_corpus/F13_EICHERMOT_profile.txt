@@ -1,0 +1,42 @@
+Company: Eicher Motors Ltd.
+Industry: Automobile (Premium Two-Wheelers & Commercial Vehicles)
+ISIN: INE066A01013
+Symbol: EICHERMOT
+
+1. Business Overview
+Eicher Motors owns Royal Enfield, a dominant global mid-weight motorcycle brand, and has a joint venture with Volvo for commercial vehicles (VECV). The company focuses on premium motorcycle experiences, export expansion, and modernizing CV offerings.
+
+2. Revenue Drivers
+- Royal Enfield domestic and export motorcycle sales.
+- VECV commercial vehicle sales and service revenue.
+- New model launches in premium segments.
+
+3. Cost Structure
+- Manufacturing and assembly.
+- Dealer and distribution network.
+- R&D for EVs and next-gen platforms.
+
+4. Competitive Advantages
+- Iconic brand with niche premium positioning.
+- High operating leverage via scale.
+- Globalization strategy expanding addressable markets.
+
+5. Risks
+- Cyclicality in two-wheeler demand.
+- Competition from emerging EV two-wheeler brands.
+- Export headwinds during global downturns.
+
+6. Dataset Insights
+- Strong multi-year uptrend historically.
+- Events like new model launches show volume surges.
+- Moderate volatility aligned with auto sector cycles.
+
+7. Financial Theory Interpretation
+Eicher exhibits:
+- High ROCE due to premium pricing.
+- Strong free cash flows.
+- Brand-led valuation premium.
+
+8. Outlook Themes
+- Electrification roadmap for premium EV bikes.
+- Expansion into global mid-weight motorcycle markets.

@@ -1,0 +1,46 @@
+Company: Coal India Ltd.
+Industry: Metals & Mining (Coal Mining)
+ISIN: INE522F01014
+Symbol: COALINDIA
+
+1. Business Overview
+Coal India is the world’s largest coal producer, supplying ~80% of India's domestic coal requirement. It operates through subsidiaries engaged in mining, beneficiation, and transportation of coal used in power generation, steel production, and other industrial processes.
+
+2. Revenue Drivers
+- Coal production volumes.
+- Realisations from FSA (Fuel Supply Agreements).
+- E-auction premiums (volatile but high-margin).
+- Linkage with power plants and state utilities.
+
+3. Cost Structure
+- Labor costs (very high due to large workforce).
+- Overburden removal and mining operations.
+- Logistics, material handling.
+- Mine development and safety expenses.
+
+4. Competitive Advantages
+- Near-monopoly in domestic coal supply.
+- Long-term contracting with power plants ensures stable demand.
+- Strong cash generation and high dividend payouts.
+
+5. Key Risks
+- Transition toward renewable energy reducing long-term demand.
+- Regulatory scrutiny on mining practices.
+- Dependence on monsoons (affects mining productivity).
+
+6. Dataset-Based Observations
+- Typically low volatility with steady volumes.
+- Price action shows mean-reversion due to stable fundamentals.
+- Rare but sharp swings linked to government policy announcements.
+
+7. Financial Theory Interpretation
+As a quasi-monopoly public sector enterprise (PSE), Coal India exhibits:
+- Predictable cash flows,
+- High dividend yield,
+- Limited growth optionality.
+
+Valuation is income-based (Dividend Discount / Cash Flow Stability).
+
+8. Outlook
+- Gradual diversification into coal gasification.
+- Efficiency modernization using mechanized mining.

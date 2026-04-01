@@ -1,0 +1,72 @@
+BANKING SYSTEM OF INDIA 
+
+1. STRUCTURE OF INDIAN BANKING
+Banks in India include:
+- Public Sector Banks (PSBs)
+- Private Sector Banks
+- Foreign Banks
+- Small Finance Banks
+- Payments Banks
+- Cooperative Banks
+
+2. ROLE OF BANKS
+Banks perform:
+- Credit intermediation
+- Payment services
+- Liquidity management
+- Financial inclusion
+
+3. BANK BALANCE SHEET STRUCTURE
+Assets:
+- Loans & advances
+- Investments (G-Secs)
+- Cash & reserves
+
+Liabilities:
+- Deposits (CASA + Term)
+- Borrowings
+- Capital & reserves
+
+4. NON-PERFORMING ASSETS (NPAs)
+NPA = loan overdue > 90 days  
+Impact:
+- Reduces profitability
+- Raises provisioning requirements
+- Restricts new lending
+
+Resolution mechanisms:
+- Insolvency and Bankruptcy Code (IBC)
+- SARFAESI Act
+- Asset Reconstruction Companies (ARCs)
+
+5. CAPITAL ADEQUACY
+Banks must maintain:
+- CRAR as per Basel III norms
+- Tier 1 & Tier 2 capital requirements
+- Leverage ratio norms
+
+6. LIQUIDITY REGULATION
+Mandatory:
+- CRR
+- SLR
+- Liquidity Coverage Ratio (LCR)
+
+7. DIGITAL TRANSFORMATION
+India’s digital stack enables:
+- UPI-based payments
+- Aadhaar e-KYC
+- Direct Benefit Transfers (DBT)
+- Digital lending
+
+8. RISKS IN BANKING
+- Credit risk
+- Market risk
+- Operational risk
+- Liquidity risk
+- Cybersecurity threats
+
+9. FUTURE TRENDS
+- AI-driven lending
+- Open banking (account aggregators)
+- Consolidation among public sector banks
+- Growth of neo-banking models

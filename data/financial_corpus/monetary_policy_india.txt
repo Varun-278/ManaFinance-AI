@@ -1,0 +1,68 @@
+MONETARY POLICY IN INDIA 
+
+1. OBJECTIVE OF RBI MONETARY POLICY
+The Reserve Bank of India's primary mandate is to maintain price stability while supporting growth.
+India follows a Flexible Inflation Targeting (FIT) framework with a mandated target of:
+- CPI inflation at 4%
+- Tolerance band: ±2%
+
+2. MONETARY POLICY COMMITTEE (MPC)
+The MPC is a 6-member committee:
+- 3 RBI officials
+- 3 Government-appointed external members
+Decisions are taken by majority vote and announced bi-monthly.
+
+3. KEY POLICY INSTRUMENTS
+a) Repo Rate  
+   - The rate at which RBI lends overnight funds to banks.
+b) Reverse Repo Rate  
+   - The rate at which banks park excess liquidity with RBI.
+c) Standing Deposit Facility (SDF)  
+   - Introduced to absorb liquidity without needing collateral.
+d) Cash Reserve Ratio (CRR)  
+   - % of bank deposits held with RBI.
+e) Statutory Liquidity Ratio (SLR)  
+   - Minimum liquid assets banks must maintain.
+f) Open Market Operations (OMO)  
+   - RBI buys/sells government securities to influence liquidity.
+g) Market Stabilization Scheme (MSS)  
+   - Used during excess capital flows.
+
+4. TRANSMISSION MECHANISM
+The impact of rate changes depends on:
+- Banking sector health
+- Credit demand
+- Liquidity conditions
+- Government borrowing program
+Transmission channels include:
+- Interest rate channel
+- Credit/Bank lending channel
+- Asset price channel
+- Expectations channel
+
+5. LIQUIDITY MANAGEMENT FRAMEWORK
+Liquidity Adjustment Facility (LAF) provides tools to adjust short-term liquidity.
+RBI also uses variable rate reverse repo (VRRR) auctions to absorb surplus liquidity.
+
+6. POLICY REACTION FUNCTION
+RBI’s decision-making depends on:
+- Inflation trajectory vs target
+- Output gap
+- Financial stability risks
+- Global monetary conditions (especially US Federal Reserve)
+- Oil and commodity price trends
+
+7. MONETARY POLICY AND THE RUPEE
+Monetary tightening supports currency stability.
+Loose monetary policy can cause depreciation pressures.
+
+8. CHALLENGES
+- Weak transmission in public sector bank-dominated system
+- Large informal sector
+- Supply-side inflation (food & fuel)
+- Global spillovers from foreign monetary policy
+
+9. FUTURE DIRECTION
+- Greater reliance on forward guidance
+- Development of the Indian corporate bond market
+- Integration with global interest rate cycles

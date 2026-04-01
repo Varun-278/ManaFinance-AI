@@ -1,0 +1,43 @@
+Company: Reliance Industries Ltd.
+Industry: Energy / Petrochemicals / Retail / Telecom / Digital Services
+ISIN: INE002A01018
+Symbol: RELIANCE
+
+1. Business Overview
+Reliance is India’s largest conglomerate with leadership in refining, petrochemicals, retail, telecom (Jio), digital services, and new energy initiatives.
+
+2. Revenue Drivers
+- Petrochemical and refining spreads.
+- Jio telecom subscribers and ARPU.
+- Retail sales across groceries, electronics, fashion.
+- Renewable energy (solar PV, green hydrogen) in future roadmap.
+
+3. Cost Structure
+- Crude oil procurement and refining fuel.
+- Spectrum purchases and telecom capex.
+- Retail expansion and logistics.
+- R&D for new energy technologies.
+
+4. Competitive Advantages
+- Vertical integration in energy.
+- Largest telecom subscriber base.
+- Fast-growing retail footprint.
+- Strong balance sheet and execution scale.
+
+5. Risks
+- Global crude volatility.
+- Telecom price wars.
+- Large capex cycles reducing FCF.
+
+6. Dataset Behavior
+- High liquidity, strong participation from institutions.
+- Volatility increases around oil market events and Jio tariff news.
+
+7. Financial Theory Interpretation
+Reliance is:
+- A multi-segment conglomerate requiring SOTP valuation.
+- Energy spreads + telecom ARPU + retail margins drive fair value.
+
+8. Outlook
+- Strong growth expected from retail + digital,
+- Transition toward green energy leadership.

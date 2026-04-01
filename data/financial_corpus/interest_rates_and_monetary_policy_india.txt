@@ -1,0 +1,61 @@
+INTEREST RATES & MONETARY POLICY 
+
+1. ROLE OF RBI
+RBI regulates liquidity and borrowing costs to maintain:
+• Price stability (CPI target 4% ± 2%)
+• Economic growth
+• Financial stability
+
+2. KEY POLICY RATES
+Repo Rate:
+Rate at which RBI lends short-term funds to banks.
+↑ Repo → expensive credit → lower inflation.
+
+Reverse Repo:
+Rate at which banks park excess funds with RBI.
+
+MSF (Marginal Standing Facility):
+Emergency borrowing window for banks.
+
+Bank Rate:
+Long-term signaling rate.
+
+3. LIQUIDITY MANAGEMENT
+RBI uses:
+• LAF corridor
+• Open Market Operations (OMO)
+• Variable Rate Reverse Repo (VRRR)
+• Variable Rate Repo (VRR)
+• CRR changes
+
+4. MONETARY TRANSMISSION
+Channels:
+• Interest rate channel
+• Credit channel
+• Exchange rate channel
+• Asset price channel
+• Expectations channel
+
+5. RBI’S POLICY FRAMEWORK (MPC)
+Monetary Policy Committee meets bi-monthly to set repo rate.
+Members: 3 RBI + 3 Govt.
+
+6. IMPACT OF RATE CHANGES
+Rate Hike:
+• Loan EMIs rise
+• Investment slows
+• Demand cools
+• Rupee strengthens (typically)
+• Bond yields rise
+
+Rate Cut:
+• Credit growth increases
+• Asset prices rise
+• Rupee may weaken
+• Consumption improves
+
+7. STRUCTURAL ISSUES
+• Transmission delays in Indian banking
+• NPA cycles affect credit growth
+• High government borrowing impacts yields
+

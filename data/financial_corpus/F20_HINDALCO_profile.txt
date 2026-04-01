@@ -1,0 +1,45 @@
+Company: Hindalco Industries Ltd.
+Industry: Metals (Aluminium & Copper)
+ISIN: INE038A01020
+Symbol: HINDALCO
+
+1. Business Overview
+Hindalco is a leading global aluminum producer and part of the Aditya Birla Group. Through Novelis, it is also the world’s largest producer of rolled aluminium products.
+
+2. Revenue Drivers
+- Aluminium prices on LME.
+- Copper cathode volumes.
+- Novelis rolled products (beverage cans, auto sheets).
+- Premiums on value-added products.
+
+3. Cost Structure
+- Alumina and bauxite mining.
+- Power and energy costs (major cost component).
+- Smelting and refining.
+- Logistics.
+
+4. Competitive Advantages
+- Integrated operations from bauxite to finished products.
+- Novelis provides stable, contract-based revenue.
+- Strong downstream product mix.
+
+5. Risks
+- Commodity cycle volatility.
+- High energy cost sensitivity.
+- FX risk due to global operations.
+
+6. Dataset Behavior
+- Strong correlation with global aluminium prices.
+- Volatility increases around commodity cycles.
+
+7. Financial Theory Interpretation
+Hindalco valuations depend on:
+- LME price trends,
+- Cost of production (power costs),
+- Downstream contract stability.
+
+Its hybrid structure (upstream + downstream) smoothens earnings.
+
+8. Outlook
+- Lightweight automotive material demand rising.
+- Recycling and sustainable aluminium growth.

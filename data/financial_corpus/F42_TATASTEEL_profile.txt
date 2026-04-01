@@ -1,0 +1,40 @@
+Company: Tata Steel Ltd.
+Industry: Metals (Steel)
+ISIN: INE081A01012
+Symbol: TATASTEEL
+
+1. Business Overview
+Tata Steel is an integrated steel producer with operations in India and Europe. India operations are high-margin; Europe operations are cyclical and margin-sensitive.
+
+2. Revenue Drivers
+- Steel demand from infra, auto, construction.
+- Steel realizations (linked to global HRC prices).
+- Value-added steel products.
+
+3. Cost Structure
+- Iron ore, coking coal, energy.
+- Logistics and plant operations.
+- European unit restructuring.
+
+4. Competitive Strengths
+- Own iron ore mines reducing input costs.
+- Strong downstream automotive steel presence.
+- Large capacity expansion in India.
+
+5. Risks
+- Global steel price volatility.
+- High leverage during capex cycles.
+- Carbon compliance costs in Europe.
+
+6. Dataset Behavior
+- Extremely cyclical; reacts strongly to global commodity cycles.
+- Volume rises near earnings or steel price changes.
+
+7. Financial Theory Interpretation
+High beta, cyclical asset:
+- EBITDA linked to spreads,
+- Valuation tied to commodity cycles + deleveraging.
+
+8. Outlook
+- Growth in India capacity,
+- Transition to green steel long-term.

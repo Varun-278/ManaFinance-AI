@@ -1,0 +1,45 @@
+Company: Bharat Petroleum Corporation Ltd.
+Industry: Energy (Oil Refining & Marketing)
+ISIN: INE029A01011
+Symbol: BPCL
+
+1. Business Overview
+BPCL is a government-owned oil refining and marketing company engaged in refining crude oil, producing petroleum products, and operating a large retail fuel distribution network across India.
+
+2. Revenue Drivers
+- Refining margins (GRMs).
+- Sale of petrol, diesel, ATF, and LPG.
+- Petrochemical and lubricant segments.
+- Retail network throughput.
+
+3. Cost Structure
+- Crude oil procurement cost.
+- Refinery operating expenses.
+- Transportation and logistics.
+- Marketing and distribution.
+
+4. Competitive Advantage
+- Large nationwide fuel retail network.
+- Strong brand trust in retail fuels and LPG.
+- Integrated refining and marketing operations.
+
+5. Key Risks
+- Volatility in crude prices affecting GRMs.
+- Government interference in pricing of retail fuels.
+- Energy transition to EVs reducing long-term demand.
+
+6. Stock Behavior (dataset insights)
+- High sensitivity to global crude oil price swings.
+- Large intraday ranges around OPEC decisions.
+- Defensive behavior during macroeconomic downturns.
+
+7. Financial Theory Lens
+BPCL behaves like a classic commodity-linked cyclical stock where:
+- Margins expand when crude falls,
+- Margins compress when crude rises.
+
+Regulated price environments distort pure free-market price signaling.
+
+8. Outlook Themes
+- Energy diversification (biofuels, EV charging).
+- Refinery upgrades improving GRM sustainability.

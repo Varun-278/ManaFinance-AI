@@ -1,0 +1,52 @@
+BOND MARKETS & YIELD CURVE 
+
+1. BOND MARKET STRUCTURE
+Segments:
+• Government securities (G-Secs)
+• State development loans (SDLs)
+• Corporate bonds
+• Money market instruments (T-Bills, CP, CD)
+
+2. YIELD CURVE
+A plot of yields vs maturities.
+Shapes:
+• Upward sloping (normal)
+• Flat (transition)
+• Inverted (signals slowdown)
+
+3. DRIVERS OF YIELD MOVEMENTS
+• Inflation expectations
+• RBI policy stance
+• Liquidity conditions
+• Fiscal deficit & borrowing program
+• Global bond yields
+
+4. SPREAD ANALYSIS
+Corporate bond spreads measure:
+• Credit risk
+• Liquidity premium
+• Market stress
+
+5. KEY BOND CONCEPTS
+Duration:
+Measures price sensitivity to yield changes.
+
+Convexity:
+Measures curvature of price–yield relationship.
+
+Term Premium:
+Extra yield for holding long-term bonds.
+
+6. MARKET PARTICIPANTS
+• Mutual funds
+• Banks
+• Insurance companies
+• Pension funds
+• FPIs
+
+7. RISKS
+• Interest rate risk
+• Credit risk
+• Liquidity risk
+• Reinvestment risk
+

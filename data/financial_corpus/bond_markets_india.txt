@@ -1,0 +1,60 @@
+THE INDIAN BOND MARKET 
+
+1. STRUCTURE OF THE BOND MARKET
+Major segments:
+- Government securities (G-secs)
+- State development loans (SDLs)
+- Corporate bonds
+- Municipal bonds
+- Treasury bills
+- Commercial paper & certificates of deposit
+
+2. GOVERNMENT SECURITIES (G-SECS)
+The largest and most liquid part of India’s bond market.
+Key benchmarks: 10-year G-sec yield.
+
+Factors affecting G-sec yields:
+- Inflation expectations
+- RBI policy stance
+- Government borrowing
+- Global yields (especially US 10-year)
+
+3. CORPORATE BOND MARKET
+Categories:
+- AAA to junk-rated bonds
+- Public issue vs private placement
+- Infrastructure bonds
+- Perpetual bonds (AT1)
+
+Challenges:
+- Limited liquidity
+- Narrow investor base
+- High credit risk perception
+
+4. YIELD CURVE
+The yield curve reflects expectations of:
+- Growth
+- Inflation
+- Policy path
+
+An inverted yield curve may signal recessionary expectations.
+
+5. CREDIT RISK & SPREADS
+Corporate bonds trade at spreads over G-secs depending on:
+- Business risk
+- Financial health
+- Sector exposure  
+- Liquidity
+
+6. RBI’S ROLE
+RBI influences bond markets via:
+- G-sec auctions
+- OMO operations
+- HTM (Held-to-Maturity) relaxations
+- Liquidity management operations
+
+7. FOREIGN PARTICIPATION
+FPI participation limited due to:
+- Regulatory limits
+- Yield volatility
+- Currency risk

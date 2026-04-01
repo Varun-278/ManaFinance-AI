@@ -1,0 +1,41 @@
+Company: Power Grid Corporation of India Ltd.
+Industry: Energy (Transmission Utility)
+ISIN: INE752E01010
+Symbol: POWERGRID
+
+1. Business Overview
+Power Grid is India's central transmission utility responsible for interstate power transmission and grid stability under long-term regulated tariffs.
+
+2. Revenue Drivers
+- Transmission charges under regulated framework.
+- New transmission assets commissioned.
+- Telecom and consultancy services.
+
+3. Cost Structure
+- Transmission line capex.
+- Maintenance & operations.
+- Depreciation (large due to asset-heavy model).
+
+4. Competitive Advantages
+- Monopoly-like position in interstate transmission.
+- Assured regulated returns (CERC norms).
+- High grid reliability and operational efficiency.
+
+5. Risks
+- Policy shifts affecting transmission charges.
+- Slower capex pipeline from states.
+- Cybersecurity risks in grid management.
+
+6. Dataset Behavior
+- Very low volatility; classic utility stock.
+- Long-term steady uptrend.
+
+7. Financial Theory Interpretation
+Behaves like:
+- A defensive utility with stable ROE,
+- Low-beta asset,
+- Valuation tied to regulated asset base.
+
+8. Outlook
+- Renewable integration requiring new transmission corridors.
+- Green energy corridors expansion.

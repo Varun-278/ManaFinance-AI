@@ -1,0 +1,38 @@
+BEHAVIORAL FINANCE 
+
+1. COGNITIVE BIASES
+• Overconfidence bias
+• Anchoring
+• Availability heuristic
+• Loss aversion
+• Herd behavior
+
+2. MARKET ANOMALIES EXPLAINED VIA BEHAVIOR
+• Momentum & reversal
+• January effect
+• Post-earnings announcement drift
+
+3. PROSPECT THEORY
+People value gains & losses asymmetrically.
+Losses ≈ 2× more painful than equivalent gains.
+
+4. INVESTOR PSYCHOLOGY DURING CYCLES
+Bull Market:
+• Euphoria
+• FOMO
+• Risk underestimation
+
+Bear Market:
+• Panic selling
+• Extreme pessimism
+
+5. BEHAVIORAL PORTFOLIO THEORY
+Investors build:
+• Safety layer (bonds)
+• Speculative layer (equity/derivatives)
+
+6. APPLICATIONS IN EQUITY RESEARCH
+• Sentiment indicators
+• Volatility interpretation
+• Market microstructure behavior
+

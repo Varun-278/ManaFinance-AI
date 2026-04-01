@@ -1,0 +1,45 @@
+Company: Hero MotoCorp Ltd.
+Industry: Automobile (Two-Wheelers)
+ISIN: INE158A01026
+Symbol: HEROMOTOCO
+
+1. Business Overview
+Hero MotoCorp is the world’s largest manufacturer of motorcycles and scooters by volume, with strong presence in commuter bike segments in India and selected export markets.
+
+2. Revenue Drivers
+- Motorcycle and scooter sales (100cc–200cc).
+- Spare parts and service.
+- Exports to Africa, Asia, South America.
+
+3. Cost Structure
+- Raw materials (steel, aluminum).
+- Manufacturing and logistics.
+- Advertising and distribution.
+
+4. Competitive Advantages
+- Industry-leading distribution network.
+- Strong brand presence in entry-level motorcycles.
+- High operating efficiency.
+
+5. Risks
+- Dependence on rural demand cycles.
+- EV disruption in commuter mobility.
+- Commodity price fluctuations.
+
+6. Dataset Observations
+- Moderate volatility reflecting cyclical auto demand.
+- Volume spikes during festival months.
+
+7. Financial Theory Interpretation
+Hero MotoCorp is:
+- A classic cyclical stock,
+- Operating leverage amplifies margins in upcycles.
+
+Key metrics include:
+- Market share,
+- EBITDA margins,
+- Export growth.
+
+8. Outlook
+- Strategic entry into electric two-wheelers.
+- Premium segment expansion.

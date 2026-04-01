@@ -1,0 +1,39 @@
+Company: Vedanta Ltd.
+Industry: Metals (Diversified: Zinc, Aluminum, Oil & Gas)
+ISIN: INE205A01025
+Symbol: VEDL
+
+1. Business Overview
+Vedanta is a diversified natural resources company involved in zinc, aluminum, copper, power, and oil & gas.
+
+2. Revenue Drivers
+- Commodity prices (zinc, aluminum, oil).
+- Volumes from mining and smelting.
+- Power generation.
+
+3. Cost Structure
+- Fuel, power, alumina, and mining costs.
+- High capex and debt servicing.
+
+4. Competitive Strengths
+- Integrated operations,
+- Leadership in zinc via HZL,
+- Large-scale mines.
+
+5. Risks
+- High leverage,
+- Commodity volatility,
+- Corporate governance concerns.
+
+6. Dataset Behavior
+- High volatility,
+- Strong correlation with global commodity markets.
+
+7. Financial Theory Interpretation
+VEDL is:
+- A high-beta cyclical conglomerate,
+- Valuation linked to commodity cycles and deleveraging.
+
+8. Outlook
+- Expansion in aluminum and zinc,
+- Potential restructuring to unlock value.

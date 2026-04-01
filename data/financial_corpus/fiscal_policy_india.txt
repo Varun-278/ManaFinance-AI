@@ -1,0 +1,64 @@
+FISCAL POLICY IN INDIA 
+
+1. OBJECTIVE OF FISCAL POLICY
+Fiscal policy manages economic cycles, boosts long-term growth, promotes equity, and stabilises
+inflation. The government uses expenditure, taxation, and borrowing to achieve macroeconomic goals.
+
+2. FISCAL DEFICIT & CONSOLIDATION
+Fiscal deficit = Total expenditure – Total revenue  
+India’s fiscal deficit target:
+- ~4.5% of GDP by FY26
+- FRBM Act governs long-term consolidation
+
+3. REVENUE STRUCTURE
+Government receipts include:
+- Direct taxes: income tax, corporate tax
+- Indirect taxes: GST, excise
+- Non-tax revenue: dividends, PSU profits
+- Capital receipts: disinvestment, borrowings
+
+4. EXPENDITURE STRUCTURE
+a) Revenue expenditure  
+   - Subsidies (food, fuel, fertilizer)  
+   - Defense revenue expenditure  
+   - Salaries, pensions  
+b) Capital expenditure  
+   - Infrastructure: roads, railways, ports  
+   - Defense capital procurement  
+   - Digital public infrastructure
+
+5. FISCAL MULTIPLIER EFFECT
+Capital expenditure has a multiplier > 2, meaning investment creates sustained demand.
+Revenue expenditure multiplier is < 1.
+
+6. PUBLIC DEBT MANAGEMENT
+India’s debt-to-GDP ~ 84%.  
+Managed mainly by RBI through:
+- G-sec auctions
+- Switch operations
+- Buybacks
+- Yield curve management (YCC-like signals)
+
+7. FEDERAL FINANCE
+Centre–state fiscal relations governed by:
+- Finance Commission (every 5 years)
+- GST Council
+- State borrowing limits
+
+8. AUTOMATIC STABILISERS
+Examples:
+- Progressive taxation
+- Unemployment insurance (limited in India)
+- Food security schemes
+
+9. CHALLENGES
+- High subsidy burden
+- Low tax-to-GDP ratio (~11%)
+- Rising interest payments
+- Limited fiscal headroom for counter-cyclical stimulus
+
+10. STRATEGIC PRIORITIES
+- Infrastructure push
+- Green economy spending
+- Formalization incentives
+- Fiscal consolidation

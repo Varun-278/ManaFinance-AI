@@ -1,0 +1,45 @@
+Company: JSW Steel Ltd.
+Industry: Metals (Steel)
+ISIN: INE019A01038
+Symbol: JSWSTEEL
+
+1. Business Overview
+JSW Steel is one of India’s largest integrated steel producers with operations spanning flat and long products, coated steel, and value-added steel for automotive, infrastructure, and construction.
+
+2. Revenue Drivers
+- Domestic and export steel volumes.
+- Realisations linked to global steel prices.
+- Value-added segments (auto, coated, specialty steels).
+
+3. Cost Structure
+- Iron ore, coking coal, and power costs.
+- Logistics and freight.
+- Capex for capacity expansion and modernization.
+
+4. Competitive Advantages
+- Efficient, modern plants with high capacity utilisation.
+- Strong presence in value-added steel.
+- Vertical integration in raw materials (iron ore mines).
+
+5. Risks
+- High sensitivity to global steel cycles.
+- Raw material price spikes compressing spreads.
+- Trade barriers (duties, quotas).
+
+6. Dataset Behavior
+- High volatility compared to defensives.
+- Large volume swings around global steel price movements and capex announcements.
+
+7. Financial Theory Interpretation
+JSW behaves like a classic cyclical:
+- Earnings expand sharply in upcycles,
+- Contract in downcycles.
+
+Valuation hinges on:
+- EBITDA/ton,
+- Leverage levels,
+- Capex discipline.
+
+8. Outlook
+- Capacity expansion to capture infrastructure-led demand.
+- Focus on value-added and specialty steels for autos, renewables.

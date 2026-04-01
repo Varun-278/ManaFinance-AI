@@ -1,0 +1,41 @@
+Company: Bharti Infratel Ltd. (merged into Indus Towers)
+Industry: Telecom Infrastructure
+ISIN: INE121J01017
+Symbol: INFRATEL
+
+1. Business Overview
+Infratel (prior to merging with Indus Towers) was a telecom tower infrastructure provider offering passive infrastructure to mobile operators for network rollout.
+
+2. Revenue Model
+- Rental income from telecom operators.
+- Co-location revenue (multiple tenants per tower).
+- Energy reimbursement income.
+
+3. Cost Structure
+- Tower maintenance and energy cost.
+- Ground lease rentals.
+- Depreciation (large due to tower assets).
+
+4. Competitive Strength
+- One of India’s largest tower networks.
+- Long-term tenancy contracts ensure stable annuity revenues.
+- Synergy benefits post-merger with Indus Towers.
+
+5. Risks
+- Tenant exits (e.g., Vodafone Idea weakness).
+- 5G rollout shifting economics of tower sharing.
+- High dependency on few major clients.
+
+6. Dataset Observations
+- Moderate volatility.
+- Volume changes aligned with telecom sector announcements.
+
+7. Financial Theory Interpretation
+Infratel behaves like:
+- A yield-oriented quasi-REIT,
+- With valuation driven by tenancy ratios,
+- And EBITDA margins.
+
+8. Outlook
+- Consolidation in telecom aiding stable tenancies.
+- Potential inclusion in digital infra growth.

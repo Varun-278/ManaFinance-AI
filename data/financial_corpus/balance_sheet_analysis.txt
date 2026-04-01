@@ -1,0 +1,54 @@
+BALANCE SHEET ANALYSIS 
+
+1. OVERVIEW
+The balance sheet reveals liquidity position, financial strength, leverage, capital structure, and
+resource allocation efficiency.
+
+2. ASSET COMPONENTS
+a) Current assets  
+   - Cash & equivalents  
+   - Inventory  
+   - Receivables  
+   - Short-term investments  
+
+b) Non-current assets  
+   - Property, Plant & Equipment  
+   - Intangibles  
+   - Goodwill  
+   - Deferred tax assets  
+
+3. LIABILITY COMPONENTS
+a) Current liabilities  
+   - Payables  
+   - Short-term borrowings  
+   - Accrued expenses  
+
+b) Long-term liabilities  
+   - Long-term debt  
+   - Lease liabilities  
+   - Provision obligations  
+
+4. EQUITY COMPONENTS
+- Share capital  
+- Share premium  
+- Reserves  
+- Retained earnings  
+
+5. KEY RATIOS
+a) Liquidity ratios  
+   Current Ratio = CA / CL  
+   Quick Ratio = (CA – Inventory) / CL  
+
+b) Leverage ratios  
+   Debt/Equity  
+   Debt/EBITDA  
+   Interest Coverage  
+
+c) Asset quality  
+   Net fixed assets turnover  
+   Return on assets (ROA)  
+
+6. ANALYTICAL INSIGHTS
+- Excessive leverage increases bankruptcy risk  
+- High receivables may signal credit policy issues  
+- Inventory build-up may indicate weak demand  

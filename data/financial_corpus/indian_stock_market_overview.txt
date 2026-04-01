@@ -1,0 +1,67 @@
+INDIAN STOCK MARKET OVERVIEW 
+
+1. STRUCTURE OF THE INDIAN CAPITAL MARKETS
+India’s capital market ecosystem comprises:
+- Equity markets (cash + derivatives)
+- Debt markets (government + corporate bonds)
+- Commodity markets (via MCX, NCDEX)
+- Currency markets
+- Alternative investment markets (AIFs, REITs, InvITs)
+
+Two major exchanges dominate:
+- NSE (National Stock Exchange)
+- BSE (Bombay Stock Exchange)
+
+2. MARKET PARTICIPANTS
+Key players:
+- Retail investors
+- High Net Worth Individuals (HNIs)
+- Domestic Institutional Investors (DIIs)
+- Foreign Portfolio Investors (FPIs)
+- Mutual funds, pension funds
+- Market makers & brokers
+- Algo/quant traders
+
+3. MARKET SEGMENTS
+a) Cash market  
+b) Equity derivatives (Index & Stock Futures/Options)  
+c) Currency derivatives  
+d) Interest rate futures  
+e) Commodity derivatives  
+
+4. INDICES
+Key benchmark indices:
+- NIFTY50  
+- SENSEX  
+- NIFTY BANK  
+- NIFTY IT  
+- NIFTY METAL  
+- Sectoral & thematic indices
+
+Indices help measure market sentiment, sector performance, and benchmark portfolio returns.
+
+5. PRICE DISCOVERY MECHANISM
+India uses anonymous order-driven electronic trading.  
+Price formation depends on:
+- Order flows  
+- Liquidity depth  
+- Information assimilation  
+- Market microstructure  
+- Global cues  
+
+6. REGULATORY FRAMEWORK
+SEBI ensures:
+- Market integrity  
+- Corporate governance  
+- Fair disclosure  
+- Surveillance against manipulation  
+
+7. SETTLEMENT
+India operates a T+1 settlement cycle for equities.
+
+8. RECENT TRENDS
+- Rise of retail participation post-2020  
+- Growth of passive funds  
+- Algo trading & co-location  
+- Sustainable finance (ESG funds)  
+- Rapid growth in derivatives turnover  

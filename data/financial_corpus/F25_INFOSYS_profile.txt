@@ -1,0 +1,50 @@
+Company: Infosys Ltd.
+Industry: IT Services
+ISIN: INE009A01021
+Symbol: INFY
+
+1. Business Overview
+Infosys is one of India’s top IT service exporters providing consulting, digital transformation, cloud, AI, cybersecurity, and managed services to Fortune 500 clients globally.
+
+2. Revenue Drivers
+- Large digital transformation deals.
+- Cloud modernization.
+- Managed services (long-term annuity).
+- Consulting and systems integration.
+
+3. Cost Structure
+- Employee salaries (dominant cost).
+- Subcontracting + training.
+- Onsite delivery and travel.
+- Technology investments.
+
+4. Competitive Advantages
+- Strong brand in global IT outsourcing.
+- High client retention.
+- Ability to win mega-deals in US and Europe.
+- Strong cash generation and dividend payout history.
+
+5. Risks
+- US recession slowing IT spending.
+- Visa-related restrictions.
+- Wage inflation affecting margins.
+
+6. Dataset Behavior
+- Moderate volatility, tracking global tech cycles.
+- Volume spikes during earnings and guidance announcements.
+- Sensitive to USD/INR movements.
+
+7. Financial Theory Interpretation
+Infosys functions like a:
+- Stable exporter with natural FX hedge,
+- High-ROE service business,
+- Low capex, high-FCF model.
+
+Valuation driven by:
+- EBIT margin,
+- Deal pipeline,
+- Digital revenue mix.
+
+8. Outlook
+- Stronger demand in cloud, AI, cybersecurity.
+- Expansion in Europe and BFSI digital modernization.

@@ -1,0 +1,41 @@
+Company: NTPC Ltd.
+Industry: Energy (Power Generation)
+ISIN: INE733E01010
+Symbol: NTPC
+
+1. Business Overview
+NTPC is India’s largest power generation company operating thermal, hydro, solar, and wind plants. It plays a critical role in India’s base-load electricity supply.
+
+2. Revenue Drivers
+- Regulated tariff-based thermal generation.
+- Renewable energy capacity additions.
+- Coal-based generation under long-term PPAs.
+
+3. Cost Structure
+- Coal procurement.
+- Plant maintenance and operations.
+- Depreciation on large plants.
+
+4. Competitive Advantages
+- Regulated business with assured returns.
+- Largest power generation fleet in India.
+- Strong execution pipeline in renewable capacity.
+
+5. Risks
+- Rising renewable penetration reducing thermal PLFs.
+- Coal supply constraints.
+- Environmental/regulatory compliance costs.
+
+6. Dataset Behavior
+- Stable, low-volatility PSU behavior.
+- Volume changes during RE policy updates.
+
+7. Financial Theory Interpretation
+NTPC acts like:
+- A regulated utility with predictable ROE,
+- Defensive, low-beta stock,
+- Valuation driven by capacity addition and regulated equity returns.
+
+8. Outlook
+- Major renewable energy expansion roadmap.
+- Green hydrogen and storage initiatives.

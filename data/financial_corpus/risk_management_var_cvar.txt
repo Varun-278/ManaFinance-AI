@@ -1,0 +1,54 @@
+RISK MANAGEMENT 
+
+1. TYPES OF RISKS
+• Market risk (equity, FX, rates, commodities)
+• Credit risk (default + downgrade)
+• Liquidity risk
+• Operational risk
+• Systemic risk
+
+2. VALUE AT RISK (VAR)
+VAR answers:
+“What is the worst expected loss over a given period at a given confidence level?”
+
+Methods:
+• Historical VAR
+• Variance-Covariance (parametric)
+• Monte Carlo simulation
+
+Formula (Parametric):
+VAR = Z * σ * √t * Portfolio Value
+
+3. CONDITIONAL VAR (CVaR)
+Measures expected loss *beyond* the VAR threshold.
+CVaR > VAR → captures tail risk.
+
+4. STRESS TESTING
+Focus areas:
+• Interest rate shocks
+• Oil price spikes
+• INR depreciation
+• Liquidity freeze scenarios
+
+5. CREDIT RISK MODELLING
+Tools:
+• PD (Probability of Default)
+• LGD (Loss Given Default)
+• EAD (Exposure at Default)
+
+Expected Credit Loss:
+ECL = PD × LGD × EAD
+
+6. RISK IN BANKS & NBFCs
+Driven by:
+• Asset-liability mismatch
+• NPA cycles
+• Funding cost sensitivity
+• Concentration of exposures
+
+7. HEDGING TECHNIQUES
+• Futures hedging (index, currency, commodity)
+• Options hedging (protective put, collars)
+• Duration matching (bonds)
+• FX swaps
+

@@ -1,0 +1,40 @@
+Company: Tech Mahindra Ltd.
+Industry: IT Services & Telecom Solutions
+ISIN: INE669C01036
+Symbol: TECHM
+
+1. Business Overview
+TechM focuses on telecom, enterprise digital transformation, engineering services, 5G, and platforms.
+
+2. Revenue Drivers
+- Telecom modernization and 5G services.
+- Digital transformation deals (cloud, automation).
+- Engineering R&D.
+
+3. Cost Structure
+- Employee wages,
+- Delivery center costs,
+- R&D for telecom products.
+
+4. Competitive Strengths
+- Strong telecom domain expertise.
+- Global delivery model.
+- Deep integration with communication service providers.
+
+5. Risks
+- Telecom clients face budget constraints.
+- Margin pressure vs peers like TCS/Infosys.
+- High exposure to cyclical enterprise demand.
+
+6. Dataset Behavior
+- Moderately volatile; reacts to margin trends.
+- High sensitivity to client deal announcements.
+
+7. Financial Theory Interpretation
+Valuation is:
+- Sensitive to EBIT margin recovery,
+- Influenced by telecom capex cycles.
+
+8. Outlook
+- 5G rollouts,
+- Expansion in engineering services.

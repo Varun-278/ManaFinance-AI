@@ -1,0 +1,40 @@
+Company: Zee Entertainment Enterprises Ltd.
+Industry: Media & Entertainment
+ISIN: INE256A01028
+Symbol: ZEEL
+
+1. Business Overview
+ZEEL operates TV channels, digital streaming (ZEE5), and content production across multiple languages. Historically a leader in Indian entertainment broadcasting.
+
+2. Revenue Drivers
+- Advertising revenue,
+- Subscription fees,
+- Digital OTT revenue,
+- Content licensing.
+
+3. Cost Structure
+- Content creation,
+- Broadcasting infrastructure,
+- OTT tech stack.
+
+4. Competitive Strengths
+- Strong library of regional content,
+- Multi-genre entertainment portfolio.
+
+5. Risks
+- Advertising slowdown,
+- Intense OTT competition,
+- Corporate governance concerns.
+
+6. Dataset Behavior
+- High volatility,
+- Volume spikes during merger news (Zee–Sony deal).
+
+7. Financial Theory Interpretation
+ZEEL valuation is driven by:
+- Turnaround prospects,
+- Core broadcasting + OTT monetization.
+
+8. Outlook
+- Focus on restructuring,
+- Value recovery dependent on governance clarity.

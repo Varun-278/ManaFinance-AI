@@ -1,0 +1,57 @@
+CREDIT RATINGS & DEBT MARKETS 
+
+1. CREDIT RATING AGENCIES
+Global:
+• S&P
+• Moody’s
+• Fitch
+
+India:
+• CRISIL
+• ICRA
+• CARE
+• India Ratings
+
+2. RATING SCALE
+Investment Grade:
+AAA → High safety  
+AA → Very high  
+A → Adequate  
+
+Non-Investment (Junk):
+BBB and below
+
+3. DEBT MARKET SEGMENTS
+• G-Secs
+• Corporate bonds
+• Commercial papers
+• Certificates of deposit
+• Masala bonds (INR-denominated offshore)
+
+4. DRIVERS OF CREDIT SPREADS
+• Default probability
+• Liquidity conditions
+• Market volatility
+• Sector outlook
+• Interest rate cycle
+
+5. DOWNGRADE RISKS
+Triggered by:
+• Weak fundamentals
+• Debt pile-up
+• Cash flow stress
+• Management concerns
+
+6. COVENANTS
+Hard covenants:
+• Debt/EBITDA limits
+• DSCR targets
+
+Soft covenants:
+• Reporting requirements
+
+7. ROLE IN PORTFOLIOS
+• Income generation
+• Diversification
+• Risk-adjusted returns
+

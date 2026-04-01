@@ -1,0 +1,49 @@
+Company: Indian Oil Corporation Ltd.
+Industry: Energy (Oil Refining & Marketing)
+ISIN: INE242A01010
+Symbol: IOC
+
+1. Business Overview
+Indian Oil Corporation (IOC) is India’s largest refining and fuel marketing company. It operates refineries, a vast network of fuel retail outlets, LPG distribution, aviation fuel supply, and petrochemical units.
+
+2. Revenue Drivers
+- Sale of petrol, diesel, LPG, ATF, and other fuels.
+- Refining margins (GRMs) across multiple refineries.
+- Petrochemical and lube sales.
+- Aviation and bulk industrial fuel contracts.
+
+3. Cost Structure
+- Crude oil import cost.
+- Refinery operating and maintenance expenses.
+- Transportation and pipeline logistics.
+- Retail network and marketing costs.
+
+4. Competitive Advantages
+- Largest fuel retail network in India.
+- Integrated refining–marketing–pipeline system.
+- Strong brand trust and LPG penetration.
+
+5. Risks
+- Government intervention in fuel pricing.
+- Crude oil price volatility affecting margins.
+- Energy transition toward EVs and cleaner energy.
+
+6. Dataset-Based Behavior
+- Cyclical price action linked to crude price cycles.
+- Volume spikes around government policy decisions and OMC margin news.
+- Defensive elements due to PSU backing and dividends.
+
+7. Financial Theory Interpretation
+IOC exhibits:
+- Commodity exposure via refining,
+- Regulated/controlled pricing in retail,
+- High operating leverage.
+
+Valuation driven by:
+- GRMs,
+- Policy environment,
+- Dividend yields.
+
+8. Outlook
+- Expansion into petrochemicals and gas.
+- Investments in EV charging, alternative fuels (biofuels).

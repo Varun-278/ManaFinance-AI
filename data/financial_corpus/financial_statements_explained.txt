@@ -1,0 +1,52 @@
+FINANCIAL STATEMENTS 
+
+1. THREE CORE STATEMENTS
+a) Balance Sheet  
+b) Income Statement  
+c) Cash Flow Statement  
+
+Together they give a comprehensive view of:
+- Profitability
+- Liquidity
+- Leverage
+- Operational efficiency
+- Financial strength
+
+2. LINKAGE BETWEEN STATEMENTS
+Net income → retained earnings in equity  
+Depreciation → added back in cash flow  
+Capex → reduces cash, increases PPE  
+Debt issued → increases cash and liabilities
+
+3. BALANCE SHEET SNAPSHOT
+Shows financial position at a point in time.
+
+Assets = Liabilities + Equity
+
+4. INCOME STATEMENT SNAPSHOT
+Shows financial performance over a period:
+Revenue → COGS → Gross Profit → OPEX → EBIT → PBT → PAT
+
+5. CASH FLOW STATEMENT SNAPSHOT
+Operating Cash Flow  
+Investing Cash Flow  
+Financing Cash Flow  
+
+6. KEY ANALYTICAL RATIOS
+Liquidity:
+- Current ratio
+- Quick ratio
+
+Profitability:
+- ROE, ROA
+- Gross margin
+- Net margin
+
+Leverage:
+- Debt/Equity  
+- Interest coverage  
+
+Efficiency:
+- Working capital turnover  
+- Inventory days  
+- Receivable days  

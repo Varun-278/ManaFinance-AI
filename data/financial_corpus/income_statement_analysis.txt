@@ -1,0 +1,52 @@
+INCOME STATEMENT ANALYSIS 
+
+1. PURPOSE
+The income statement provides insight into profitability, cost structure, revenue drivers, and
+operational performance.
+
+2. STRUCTURE
+Revenue  
+– COGS  
+= Gross Profit  
+
+– Operating expenses  
+= EBIT  
+
+– Interest + Other expenses  
+= PBT  
+
+– Taxes  
+= PAT  
+
+3. KEY PROFITABILITY RATIOS
+Gross Margin = Gross Profit / Revenue  
+EBIT Margin = EBIT / Revenue  
+Net Margin = PAT / Revenue  
+
+ROE = Net Income / Equity  
+ROCE = EBIT / (Equity + Debt – Cash)  
+
+4. REVENUE QUALITY ANALYSIS
+- Organic vs inorganic growth
+- Scaling efficiency
+- Recurring vs cyclical revenues
+- Geographical diversification
+
+5. COST STRUCTURE INSIGHTS
+- Operating leverage
+- Variable vs fixed costs
+- SG&A efficiency
+
+6. EARNINGS QUALITY
+High-quality earnings come from:
+- Core operations  
+- Strong cash conversion  
+
+Low-quality earnings arise from:
+- Accounting adjustments  
+- One-time gains  
+
+7. COMMON RED FLAGS
+- Declining margins  
+- Large other income dependencies  
+- One-off adjustments masking trends  

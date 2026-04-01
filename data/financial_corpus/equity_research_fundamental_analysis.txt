@@ -1,0 +1,46 @@
+EQUITY RESEARCH & FUNDAMENTAL ANALYSIS
+
+1. RESEARCH PROCESS
+• Industry assessment
+• Company deep dive
+• Financial modelling
+• Competitive benchmarking
+• Valuation
+• Risk assessment
+• Investment thesis creation
+
+2. SWOT ANALYSIS
+• Strengths (moats)
+• Weaknesses
+• Opportunities
+• Threats
+
+3. PORTER’S FIVE FORCES
+• Competitive rivalry
+• Supplier power
+• Buyer power
+• Threat of substitutes
+• Threat of new entrants
+
+4. MOAT ANALYSIS
+Types:
+• Cost advantage
+• Brand & distribution
+• Switching costs
+• IP & patents
+• Network effects
+
+5. RED FLAGS IN EQUITY ANALYSIS
+• Promoter pledging
+• Auditor changes
+• Aggressive accounting
+• Related-party transactions
+• Unusual margin spikes
+
+6. FINANCIAL MODELING
+Forecast drivers:
+• Volume × price
+• Operating leverage
+• Working capital cycle
+• Debt repayment schedule
+

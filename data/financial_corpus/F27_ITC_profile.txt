@@ -1,0 +1,48 @@
+Company: ITC Ltd.
+Industry: Consumer Goods / Tobacco / Hotels / Paper
+ISIN: INE154A01025
+Symbol: ITC
+
+1. Business Overview
+ITC is a diversified conglomerate with core businesses in cigarettes, FMCG foods and personal care, hotels, paperboards & packaging, and agri-business.
+
+2. Revenue Drivers
+- Cigarette sales (high-margin, core profit engine).
+- Branded packaged foods (Aashirvaad, Sunfeast, Bingo).
+- Personal care and hygiene products.
+- Hotels, paper & packaging, and agri-trading.
+
+3. Cost Structure
+- Tobacco and agri raw materials.
+- Excise and taxes on cigarettes (very high).
+- Advertising and branding for FMCG.
+- Hotel operating costs.
+
+4. Competitive Advantages
+- Dominant market share in cigarettes.
+- Strong backward linkage in agri and paper.
+- Fast-growing FMCG portfolio riding brand equity.
+- Very high ROCE from cigarettes funding diversification.
+
+5. Risks
+- Regulatory and tax risks on tobacco.
+- Slow ramp-up in hotel profitability.
+- Competition in FMCG from HUL, Nestlé, etc.
+
+6. Dataset Behavior
+- Historically seen as a “value + dividend” stock.
+- Low-to-moderate volatility.
+- Volume surges during tax policy changes and demerger/structure news.
+
+7. Financial Theory Interpretation
+ITC is:
+- A cash cow (cigarettes) funding optionality (FMCG hotels, paper),
+- Low beta with attractive dividend yield.
+
+Sum-of-the-parts valuation often applied:
+- High PE for FMCG,
+- Lower PE for cigarettes.
+
+8. Outlook
+- Continued FMCG premiumisation.
+- Structural headwinds in tobacco balanced by brand strength.

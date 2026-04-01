@@ -1,0 +1,44 @@
+Company: Grasim Industries Ltd.
+Industry: Cement & Building Materials / Diversified
+ISIN: INE047A01021
+Symbol: GRASIM
+
+1. Business Overview
+Grasim, part of the Aditya Birla Group, operates in cement (via UltraTech), viscose staple fiber (VSF), chemicals (caustic soda), and recently entered the paints business. It is a diversified industrial and materials conglomerate.
+
+2. Revenue Drivers
+- Cement demand (infrastructure, housing).
+- VSF textile fiber demand.
+- Caustic soda realizations.
+- New adjacencies (paints segment capex cycle).
+
+3. Cost Structure
+- Energy/fuel costs for cement kilns.
+- Raw materials for VSF and chemicals.
+- Logistics and freight.
+- Large capital expenditure for expansion.
+
+4. Competitive Advantages
+- Leadership in cement via UltraTech.
+- Integrated textile value chain.
+- Scale efficiencies in chemicals.
+
+5. Risks
+- Cement price cyclicality.
+- Crude-linked raw material cost inflation.
+- Large capex burden for paints for next few years.
+
+6. Dataset-Based Stock Behavior
+- High sensitivity to cement cycle news.
+- Volume surges around project announcements.
+- Trending behavior during construction upcycles.
+
+7. Financial Theory Lens
+Grasim exhibits characteristics of:
+- A conglomerate with sum-of-the-parts valuation.
+- Cyclical and commodity-linked businesses.
+- High operational leverage in cement.
+
+8. Outlook
+- Aggressive expansion in decorative paints.
+- Strong cement volume growth via UltraTech.

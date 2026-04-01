@@ -1,0 +1,54 @@
+ADVANCED FINANCIAL STATEMENT ANALYSIS 
+
+1. FINANCIAL STATEMENTS
+• Balance Sheet
+• Income Statement
+• Cash Flow Statement
+• Notes to accounts (critical)
+
+2. PROFITABILITY RATIOS
+• ROE = Net Income / Shareholder Equity
+• ROCE = EBIT / (Equity + Debt - Cash)
+• NIM (banks)  
+• EBITDA margin  
+• PAT margin  
+
+3. LEVERAGE & SOLVENCY
+• Debt-to-equity
+• Interest coverage ratio
+• Net debt / EBITDA
+Higher leverage → higher risk.
+
+4. OPERATING METRICS
+Manufacturing:
+• Inventory turnover
+• Operating cycle
+• Asset turnover
+
+Banks:
+• GNPA / NNPA
+• Provision coverage ratio (PCR)
+• CASA ratio
+• Credit-to-deposit ratio
+
+5. CASH FLOW ANALYSIS
+Operating > Investing + Financing → sustainable business.
+
+Watch for:
+• Aggressive revenue recognition
+• Working capital buildup
+• Negative OCF despite profits
+
+6. WARNING SIGNS
+• Sudden drop in cash position
+• Rising debt without revenue growth
+• Receivables growing faster than sales
+• Qualified auditor reports
+• Promoter pledging (India-specific)
+
+7. EARNINGS QUALITY
+High-quality earnings:
+• Supported by cash
+• Stable margins
+• Conservative accounting
+

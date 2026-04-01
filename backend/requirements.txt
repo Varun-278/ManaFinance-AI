@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+gradio
+pandas
+groq
+rapidfuzz
+langchain-community
+langchain-text-splitters
+sentence-transformers
+faiss-cpu

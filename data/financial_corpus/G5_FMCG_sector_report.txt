@@ -1,0 +1,130 @@
+SECTOR REPORT — FMCG (FAST-MOVING CONSUMER GOODS)
+--------------------------------------------------
+
+1. Sector Overview
+The FMCG sector in India is one of the most stable and resilient industries, characterized by essential household purchases, consistent demand, and low cyclicality. It covers foods, beverages, personal care, home care, tobacco, packaged goods, and OTC products.
+
+NIFTY50 FMCG companies included in your universe:
+- HINDUNILVR (Hindustan Unilever Ltd.)
+- ITC
+- BRITANNIA
+- NESTLEIND
+- TATACONSUM (if considered)
+
+The sector is driven by India’s large population, rising disposable income, urbanization, and premiumization trends. Rural demand cycles play a major role because ~35–40% of FMCG demand originates from rural India.
+
+2. Sub-Sector Classification
+(1) Foods & Beverages  
+   - Nestlé (beverages, dairy), Britannia (bakery), Tata Consumer (tea, salt).  
+(2) Home & Personal Care  
+   - HUL (soaps, detergents, skincare, haircare).  
+(3) Tobacco & Diversified  
+   - ITC (cigarettes, FMCG, agri, hotels, paper).
+
+3. Business Model Summary
+
+HINDUNILVR:
+- Dominant player in home & personal care.
+- Portfolio strength across beauty, detergents, food.
+- Operates at high EBITDA margins due to scale, brand power, and distribution.
+- Strong rural penetration and premium brands drive growth.
+
+ITC:
+- Largest cigarette company in India.
+- Diversified FMCG growth across packaged foods, biscuits, noodles, beverages.
+- Strong backward integration in agri products and paperboard business.
+- Cigarette business provides large cash flows for other segments.
+
+BRITANNIA:
+- Market leader in biscuits and bakery.
+- Premiumization trend in biscuits (cookies, crackers) drives margin expansion.
+- Efficient supply chain and strong brand portfolio.
+
+NESTLEIND:
+- Premium foods and beverages player (Maggi, Nescafe, Cerelac).
+- Strong focus on nutrition, dairy, infant food.
+- Higher pricing power and sticky brand loyalty.
+
+TATA CONSUMER:
+- Tea, coffee, salt, packaged staples.
+- Beneficiary of corporate restructuring and premium packaged goods trend.
+
+4. Key Performance Metrics
+- Volume growth (%) vs value growth (%)
+- Gross and EBITDA margin profile
+- Rural vs urban demand growth
+- A&P (advertising) spends
+- Realization improvements from premium products
+- Working capital efficiency
+- Price hikes vs input inflation (edible oils, milk, packaging materials)
+
+Company-specific metrics:
+
+HUL:
+- Market share across key categories (soaps, detergents, skincare).
+- Premiumization share (e.g., Dove vs mass soaps).
+- Rural demand trends.
+
+ITC:
+- Cigarette volume growth.
+- FMCG EBITDA improvement.
+- Agri commodity cycles affecting non-FMCG earnings.
+
+BRITANNIA:
+- Input cost sensitivity to wheat, sugar, palm oil.
+- New product contribution to revenue.
+- Distribution expansion.
+
+NESTLE:
+- Pricing power and brand loyalty.
+- Milk and coffee input price sensitivity.
+- Growth in prepared foods (Maggi).
+
+5. Industry Structure & Competition
+- Oligopolistic in many categories (HUL, ITC, Britannia).
+- High entry barriers due to brand-building cost and distribution reach.
+- Private labels emerging in modern retail.
+- Rural markets highly competitive and price-sensitive.
+
+6. Growth Drivers
+- Urbanization and changing lifestyles.
+- Shift toward branded packaged goods.
+- Premiumization and health-oriented products.
+- E-commerce and quick-commerce distribution.
+- Rural consumption recovery.
+
+7. Key Risks
+- Commodity cost inflation (palm oil, milk, wheat).
+- Delays in rural recovery.
+- Category-level competition from smaller regional brands.
+- Government regulation in tobacco (for ITC).
+
+8. Cyclicality & Earnings Sensitivity
+- FMCG is defensive; not materially affected by business cycles.
+- Earnings sensitivity mainly to:
+  - Input cost inflation,
+  - Pricing power,
+  - Rural income trends.
+
+9. RAG-Friendly Atomic Facts
+- “FMCG demand is relatively inelastic and stable across economic cycles.”
+- “Premiumization expands margins despite volume stagnation.”
+- “Rural demand contributes over one-third of India’s FMCG consumption.”
+
+10. Quick Company Summary
+
+HUL:
+- Broadest FMCG portfolio; market leader across many categories.
+- High margins and strong distribution moat.
+
+ITC:
+- Cigarettes are the cash engine; FMCG is fast-growing.
+- Diversified model reduces cyclicality.
+
+BRITANNIA:
+- Dominates biscuits; strong innovation pipeline.
+
+NESTLE:
+- High-end foods/beverages; strong pricing power.
+
+End of document.

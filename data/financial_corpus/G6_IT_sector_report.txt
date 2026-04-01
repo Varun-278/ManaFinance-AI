@@ -1,0 +1,152 @@
+SECTOR REPORT — IT SERVICES (INDIA)
+------------------------------------
+
+1. Sector Overview
+The Indian IT services sector is globally dominant, supplying consulting, application development, cloud, cybersecurity, AI/ML, infra management, and digital transformation services to clients worldwide.
+
+NIFTY50 constituents:
+- TCS
+- INFY (Infosys)
+- HCLTECH
+- TECHM (Tech Mahindra)
+- WIPRO
+
+The industry benefits from:
+- Global outsourcing trend,
+- Digital transformation,
+- Cloud migration,
+- Automation and AI adoption,
+- Cost advantages and talent pool depth.
+
+Billing is usually in USD, so the industry benefits when INR depreciates.
+
+2. Sub-Sector Classification
+
+(1) ADM (Application Development and Maintenance)  
+Traditional outsourcing backbone: TCS, INFY, WIPRO, HCLTECH.
+
+(2) Digital Services  
+Cloud migration, data engineering, cybersecurity, AI/ML.  
+Fastest-growing revenue segments.
+
+(3) ER&D (Engineering R&D)  
+Product engineering, telecom engineering, automotive digitalization (strong for Tech Mahindra, HCLTech).
+
+(4) Consulting and BPM  
+Business process management, transformation consulting.
+
+3. Business Model Summary
+
+TCS:
+- Largest Indian IT company by revenue and market cap.
+- Strongest in BFSI, retail, and global consulting engagements.
+- Industry-leading margins due to scale and delivery excellence.
+
+INFOSYS:
+- Strong North America presence.
+- High-value digital programs in cloud and transformation.
+- Strong deal pipeline and consulting offerings.
+
+HCLTECH:
+- Strong in ER&D and infrastructure services.
+- Balanced portfolio of products and platforms (via acquisitions).
+- Competitive margins.
+
+TECH MAHINDRA:
+- Telecom-focused; large share of revenue from network and digital engineering.
+- Growth improving as 5G-related spending increases.
+
+WIPRO:
+- Consulting-led transformation; known for acquisitions.
+- Recently repositioning into cloud, digital, and engineering services.
+
+4. Key Performance Metrics
+
+Sector-wide:
+- Revenue growth in constant currency (CC)
+- EBIT margins
+- Utilization rate (%)
+- Attrition rate (%)
+- Deal wins (TCV) in large deals
+- Geographic revenue split (US, Europe, APAC)
+- Vertical revenue split (BFSI, retail, telecom, manufacturing)
+
+Company-specific:
+
+TCS:
+- Highest margins among peers.
+- BFSI performance critical.
+- Minimal acquisitions; organic growth focus.
+
+INFY:
+- Margin performance depends on utilization and pricing.
+- Strong digital mix (>55% of revenue).
+
+HCLTECH:
+- Strong infra and ER&D; stable long-term contracts.
+- Mode-based revenue mix.
+
+TECHM:
+- Telecom-spend sensitivity; ER&D relevance.
+- Lower margins vs peers.
+
+WIPRO:
+- Integration of acquisitions impacts margins.
+- Needs consistent large-deal wins.
+
+5. Industry Structure & Competition
+India’s IT sector competes globally with:
+- Accenture,
+- Cognizant,
+- IBM,
+- Capgemini.
+
+Competitive edges:
+- Lower cost structure,
+- Large skilled workforce,
+- Offshore–onsite delivery model,
+- Strong vendor partnerships with AWS, Azure, Google Cloud.
+
+6. Growth Drivers
+- Cloud adoption, automation, AI/ML.
+- 5G rollout and network modernization.
+- BFSI digital spend.
+- Cost optimization cycles.
+- Enterprise cybersecurity investments.
+
+7. Key Risks
+- US/Europe recession risk → lower tech budgets.
+- Project ramp-downs and cancellations.
+- Margin pressure from wage hikes and attrition.
+- Regulatory visa constraints (H-1B).
+- Geopolitical tensions affecting client sentiment.
+
+8. Earnings Sensitivity
+- IT earnings correlate with global macro cycles.
+- Weak macro → vendor consolidation, pricing pressure.
+- Strong macro → digital transformation spends rise.
+
+9. RAG-Friendly Knowledge Snippets
+- “IT services revenue is largely billed in USD; INR depreciation improves margins.”
+- “Digital revenue (>50% for top companies) is the key long-term growth driver.”
+- “Margins depend heavily on utilization, offshore mix, and pyramid optimization.”
+
+10. Company Snapshots
+
+TCS:
+- Benchmark of delivery excellence; highest consistency.
+- Strong BFSI relationships.
+
+INFY:
+- Digital-led growth; large deal momentum.
+
+HCLTECH:
+- Infrastructure and engineering strengths.
+
+TECHM:
+- Telecom specialist; ER&D-heavy.
+
+WIPRO:
+- Consulting + cloud; turnaround in progress.
+
+End of document.

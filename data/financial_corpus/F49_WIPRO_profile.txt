@@ -1,0 +1,39 @@
+Company: Wipro Ltd.
+Industry: IT Services
+ISIN: INE075A01022
+Symbol: WIPRO
+
+1. Business Overview
+Wipro offers IT consulting, digital transformation, cloud, cybersecurity, and managed services to global clients.
+
+2. Revenue Drivers
+- Cloud and infrastructure services.
+- Consulting-led digital deals.
+- BFSI, healthcare, and tech clients.
+
+3. Cost Structure
+- Employee wages,
+- Delivery and technology infra,
+- SG&A costs.
+
+4. Competitive Strengths
+- Global delivery presence,
+- Diversified client base.
+
+5. Risks
+- Margin compression vs top peers,
+- Client spending slowdown,
+- Talent attrition.
+
+6. Dataset Behavior
+- Moderate volatility,
+- Long-term correlation with global tech spending.
+
+7. Financial Theory Interpretation
+Wipro:
+- Trades at lower multiples vs peers,
+- Valuation depends on margin turnaround.
+
+8. Outlook
+- AI-led modernization,
+- Focus on efficiency and restructuring.

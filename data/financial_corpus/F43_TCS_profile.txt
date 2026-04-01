@@ -1,0 +1,41 @@
+Company: Tata Consultancy Services Ltd.
+Industry: IT Services
+ISIN: INE467B01029
+Symbol: TCS
+
+1. Business Overview
+TCS is India’s largest IT services company offering BFSI, retail, healthcare, cloud, AI/analytics, and consulting services globally.
+
+2. Revenue Drivers
+- BFSI and retail clients.
+- Cloud transformation and managed services.
+- Large multi-year outsourcing deals.
+
+3. Cost Structure
+- Employee wages (major cost component).
+- Training, bench cost.
+- Delivery center operations.
+
+4. Competitive Strengths
+- Strong brand and diversified client base.
+- High client retention.
+- Industry-leading operating margins.
+
+5. Risks
+- Wage inflation.
+- Slowdowns in US and Europe tech spending.
+- Automation reducing labor-arbitrage benefits.
+
+6. Dataset Behavior
+- Low volatility; stable compounding stock.
+- Moves mostly around results/guidance.
+
+7. Financial Theory Interpretation
+Behaves like:
+- A high-ROE compounder,
+- Cash-rich, low-beta,
+- Valuation tied to earnings growth predictability.
+
+8. Outlook
+- Strong demand for AI/automation services.
+- BFSI recovery to drive growth.

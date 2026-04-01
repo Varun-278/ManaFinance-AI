@@ -1,0 +1,43 @@
+Company: Maruti Suzuki India Ltd.
+Industry: Automobile (Passenger Vehicles)
+ISIN: INE585B01010
+Symbol: MARUTI
+
+1. Business Overview
+Maruti is India's largest passenger vehicle manufacturer with dominance in entry-level and compact categories. Backed by Suzuki Motor Corp., the company has an expansive dealer/service network and strong brand recall.
+
+2. Revenue Drivers
+- Small car, hatchback, and compact SUV sales.
+- After-sales services and genuine parts.
+- Exports of compact cars to emerging markets.
+- New hybrid and CNG portfolio expansion.
+
+3. Cost Structure
+- Steel, aluminum, and commodity inputs.
+- Vendor ecosystem and logistics.
+- Employee and plant operations.
+- R&D for new platforms and hybrid vehicles.
+
+4. Competitive Advantages
+- Unmatched dealer network and after-sales ecosystem.
+- Strong cost efficiency and scale.
+- Market dominance in sub-₹10 lakh segment.
+
+5. Risks
+- Rising EV adoption pressuring ICE volumes.
+- Competition from Hyundai, Tata Motors, Kia.
+- Commodity price volatility impacting margins.
+
+6. Dataset Insights
+- Moderate volatility with periodic volume spikes around launches.
+- Uptrends often follow industry-wide sales momentum.
+
+7. Financial Theory Interpretation
+Maruti exhibits:
+- High operating leverage,
+- Low debt,
+- Valuation sensitivity to market share.
+
+8. Outlook
+- Expansion into hybrid SUVs,
+- Future EV platform collaborations with Suzuki.

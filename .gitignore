@@ -1,0 +1,39 @@
+# Python caches
+__pycache__/
+*.py[codz]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+src/venv/
+
+# Secrets
+.env
+api.txt
+check.py
+*.key
+*.token
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Index and artifacts
+data/finance_index/
+*.faiss
+*.pkl
+
+# Large generated text corpus
+# Uncomment if you do not want these tracked
+# data/NIFTY50_TXT/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,49 @@
+Company: Hindustan Unilever Ltd. (HUL)
+Industry: Consumer Goods (FMCG)
+ISIN: INE030A01027
+Symbol: HINDUNILVR
+
+1. Business Overview
+HUL is India’s largest FMCG company with a diversified portfolio across home care, beauty & personal care, foods & refreshments. Brands include Surf Excel, Lux, Dove, Pepsodent, Clinic Plus, and Kwality Wall’s.
+
+2. Revenue Drivers
+- Everyday consumption categories (soap, detergents, hair care).
+- Premiumisation in beauty and personal care.
+- Penetration into rural markets.
+- Ice cream and beverages portfolio.
+
+3. Cost Structure
+- Raw materials (palm oil, milk, packaging).
+- Advertising and promotion.
+- Distribution logistics.
+- Royalty and brand fees to Unilever.
+
+4. Competitive Advantages
+- Massive distribution reach (7M+ outlets).
+- Strong brand equity.
+- Data-driven marketing and supply chain.
+- Diversified category presence reduces cyclicality.
+
+5. Risks
+- High sensitivity to commodity cost spikes.
+- Competition from Patanjali, ITC, and local brands.
+- Royalty fee pressure impacting profitability.
+
+6. Dataset-Based Behavior
+- Very low volatility (defensive FMCG nature).
+- Price stability with long upward drift.
+- Volume spikes near results due to institutional flows.
+
+7. Financial Theory Interpretation
+HUL is:
+- A classic low-beta, cash-generating consumer staple,
+- With high ROCE and strong pricing power.
+
+Valuation driven by:
+- Margin resilience,
+- Volume growth,
+- Brand strength.
+
+8. Outlook
+- Rural recovery and premium product growth.
+- Expanding into nutrition and beauty tech.

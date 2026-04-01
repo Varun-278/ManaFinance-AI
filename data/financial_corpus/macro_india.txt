@@ -1,0 +1,89 @@
+MACROECONOMIC OVERVIEW OF INDIA 
+
+1. STRUCTURE OF THE INDIAN ECONOMY
+India is a services-driven economy, with the sector contributing ~54% of Gross Value Added (GVA).
+Industry contributes ~28%, and agriculture contributes ~18%. Economic performance is influenced
+by monsoon variability, domestic demand cycles, global commodity prices, and capital formation trends.
+Private consumption accounts for ~57% of GDP, making India one of the most consumption-led
+large economies globally.
+
+2. GDP GROWTH DYNAMICS
+GDP growth is determined by a mix of investment spending, government expenditure, external demand,
+and private consumption. India’s medium-term growth potential is estimated between 6–7%. 
+Key long-term growth enablers include infrastructure investment, digitalization, demographic dividend,
+financial inclusion, and export competitiveness.
+
+3. INFLATION MECHANICS
+Inflation in India is officially measured using the Consumer Price Index (CPI).
+Major inflation drivers:
+ - Demand-pull inflation: caused by high consumer spending, credit growth, or fiscal expansion.
+ - Cost-push inflation: caused by supply bottlenecks, global commodity shocks, and logistics issues.
+ - Imported inflation: India imports ~85% of its crude oil, making fuel prices a major inflation input.
+RBI’s inflation target is 4% ± 2%.
+
+4. MONETARY POLICY — RBI’S ROLE
+The Reserve Bank of India maintains price stability while supporting economic growth.
+The Monetary Policy Committee (MPC) meets every 2 months.
+Key policy tools include:
+ - Repo Rate: the rate at which the RBI lends to commercial banks.
+ - Reverse Repo Rate: the rate at which banks park excess funds with the RBI.
+ - Cash Reserve Ratio (CRR): portion of bank deposits to be held with the RBI.
+ - Open Market Operations (OMO): liquidity adjustments by buying/selling government securities.
+ - Statutory Liquidity Ratio (SLR): minimum liquid assets banks must maintain.
+
+5. FISCAL POLICY — GOVERNMENT’S ROLE
+India’s fiscal policy is executed through taxation, government expenditure, subsidies, and
+capital investments. The long-term fiscal consolidation roadmap aims to bring the fiscal deficit
+to ~4.5% by FY26. Key expenditure drivers include infrastructure, defence, rural development,
+and welfare schemes.
+
+6. EXTERNAL SECTOR & TRADE POSITION
+India’s external sector is shaped by:
+ - Current Account Deficit (CAD)
+ - Foreign Exchange Reserves (over USD 600 billion)
+ - Services exports: IT, ITeS, consulting, financial services
+ - Remittances: India is the world’s largest remittance recipient (~USD 100 billion)
+ - Exchange rate fluctuations and capital flows
+Trade vulnerabilities include crude oil dependence and global recession exposure.
+
+7. FINANCIAL MARKETS
+India’s capital markets include equity markets (NIFTY50, SENSEX), bond markets, money markets,
+and currency markets.
+
+Equity Markets:
+NIFTY50 represents 50 large-cap companies across major sectors and acts as a barometer of
+market sentiment.
+
+Bond Markets:
+Government securities (G-Secs) dominate the bond ecosystem. Bond yields move in response to
+inflation, monetary policy, and government borrowing.
+
+8. STRUCTURAL & POLICY REFORMS
+Key structural reforms influencing macroeconomic performance:
+ - GST (Goods and Services Tax)
+ - Insolvency and Bankruptcy Code (IBC)
+ - Make in India manufacturing push
+ - National Infrastructure Pipeline (NIP)
+ - Digital Public Infrastructure (UPI, Aadhaar, ONDC)
+ - Production-Linked Incentive (PLI) schemes
+
+These reforms aim to increase productivity, formalize the economy, and boost manufacturing.
+
+9. MACRO RISKS TO INDIA’S ECONOMY
+Major risk factors:
+ - Crude oil price spikes affecting inflation and the current account
+ - Global recession affecting exports and capital markets
+ - Climate shocks affecting agriculture output
+ - Geopolitical tensions impacting supply chains
+ - Rupee volatility influencing import costs and inflation
+
+10. OUTLOOK FOR THE NEXT DECADE
+India’s macroeconomic foundation remains strong due to:
+ - Large domestic market
+ - Rapid digital adoption
+ - Young labor force
+ - Formalization and financialization of the economy
+ - Infrastructure expansion
+
+Sustaining 6–7%+ growth will require improvements in labor participation,
+manufacturing competitiveness, skill development, and long-term policy stability.

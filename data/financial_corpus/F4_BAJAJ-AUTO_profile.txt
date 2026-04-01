@@ -1,0 +1,43 @@
+Company: Bajaj Auto Ltd.
+Industry: Automobile (Two-wheelers & Three-wheelers)
+ISIN: INE917I01010
+Symbol: BAJAJ-AUTO
+
+1. Business Overview
+Bajaj Auto is a global two-wheeler and three-wheeler manufacturer with significant exports. The company’s core portfolio spans motorcycles (Pulsar, Boxer, KTM), scooters, and commercial three-wheelers.
+
+2. Revenue Drivers
+- Domestic two-wheeler sales.
+- Export sales to Africa, Latin America, and Asia.
+- Market share in premium motorcycles.
+- Three-wheeler demand cycles.
+
+3. Cost Structure
+- Commodity-linked raw materials (steel, rubber, aluminum).
+- R&D investment in EV and performance bikes.
+- Manufacturing and distribution costs.
+
+4. Competitive Advantages
+- Strong brand presence in premium motorcycle segment.
+- Cost-efficient manufacturing.
+- Dominant exporter in two-wheelers.
+
+5. Risks
+- Currency fluctuations impacting export revenue.
+- Demand cyclicality in rural and export markets.
+- Competition from EV entrants.
+
+6. Dataset-Based Stock Behavior
+- Noticeable price momentum around quarterly auto sales data.
+- Exports-driven cycles show up in volatility clusters.
+- Generally moderate volatility.
+
+7. Financial Theory Lens
+As a cyclical consumer manufacturer, Bajaj Auto’s valuation depends on:
+- Economic recovery,
+- Commodity cycles,
+- Export market stability.
+
+8. Outlook
+- Electric two-wheeler scale-up.
+- Strengthening premium product mix.

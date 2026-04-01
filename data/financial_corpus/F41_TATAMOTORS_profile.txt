@@ -1,0 +1,42 @@
+Company: Tata Motors Ltd.
+Industry: Automobile (PV, CV, EV)
+ISIN: INE155A01022
+Symbol: TATAMOTORS
+
+1. Business Overview
+Tata Motors operates in passenger vehicles (PV), commercial vehicles (CV), and electric vehicles (EV). Subsidiary Jaguar Land Rover (JLR) contributes significantly to global revenues.
+
+2. Revenue Drivers
+- CV demand linked to GDP/infrastructure cycles.
+- PV demand led by Nexon, Punch, Harrier, and EVs.
+- JLR luxury SUV segment.
+- EV penetration in urban markets.
+
+3. Cost Structure
+- Steel, aluminum, rubber, batteries.
+- JLR R&D and capex.
+- Marketing + distribution.
+
+4. Competitive Strengths
+- First-mover in India EV market.
+- Strong CV leadership.
+- JLR brand equity in luxury markets.
+
+5. Risks
+- JLR’s cyclicality and geopolitical exposure.
+- EV cost pressures (battery imports).
+- CV slowdown during weak macro conditions.
+
+6. Dataset Behavior
+- High volatility stock with sharp cycles.
+- Volume spikes around EV announcements or JLR earnings.
+
+7. Financial Theory Interpretation
+Company combines:
+- Cyclical CV business,
+- Structural EV growth,
+- Luxury global exposure ⇒ mixed risk-return profile.
+
+8. Outlook
+- Aggressive EV roadmap (Gen-3 EV platform),
+- JLR electrification (Range Rover EV).

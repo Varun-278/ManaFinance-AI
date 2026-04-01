@@ -1,0 +1,46 @@
+Company: Asian Paints Ltd.
+Industry: Consumer Goods (Decorative Paints)
+ISIN: INE021A01026
+Symbol: ASIANPAINT
+
+1. Business Overview
+Asian Paints is India’s largest paints manufacturer and a leader in the decorative paints segment. It also operates in industrial coatings, home décor, waterproofing, and bath/kitchen solutions.
+
+2. Revenue Drivers
+- Decorative paints (urban + rural).
+- Premium emulsions and exterior coatings.
+- Industrial coatings (automotive, OEM).
+- Home décor and renovation categories.
+
+3. Cost Structure
+- Raw materials: crude derivatives (TiO2, solvents, resins).
+- Distribution: a dense dealer network (~70,000+ dealers).
+- Advertising and branding expenditure.
+
+4. Competitive Advantage
+- Strong brand recall and premium positioning.
+- Economies of scale in manufacturing.
+- Industry-leading distribution and supply chain.
+- Consistent innovation (color consultancy, home solutions).
+
+5. Risks
+- Crude-oil price volatility impacts margins.
+- Increasing competition in premium emulsions.
+- Cyclical risk from housing demand.
+
+6. Stock Behavior (dataset insights)
+- Lower volatility relative to cyclical sectors.
+- Trend-following behavior during housing upcycles.
+- Stable volume patterns, reflecting defensive nature.
+
+7. Financial Theory View
+Asian Paints exhibits characteristics of a defensive consumer stock:
+- Stable cashflows,
+- High return ratios,
+- Lower beta,
+- Pricing power in premium segments.
+
+8. Outlook Themes
+- Expansion into home renovation ecosystem.
+- Premiumisation of product mix.
+- Long-term housing demand tailwinds.

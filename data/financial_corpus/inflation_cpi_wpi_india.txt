@@ -1,0 +1,49 @@
+INFLATION IN INDIA — CPI, WPI, DRIVERS, MACRO RELATIONSHIPS
+
+1. TYPES OF INFLATION MEASURES
+CPI (Consumer Price Index)
+• Measures retail inflation
+• Used for monetary policy targeting
+• Components: Food, Fuel, Core (ex-food & fuel)
+
+WPI (Wholesale Price Index)
+• Measures producer-level prices
+• Sensitive to commodities & global prices
+
+GDP Deflator
+• Measures overall price changes in economy
+
+2. DRIVERS OF INFLATION IN INDIA
+Demand-pull inflation:
+• Excess consumer demand
+• High credit growth
+
+Cost-push inflation:
+• Commodity prices (oil)
+• Supply chain constraints
+• Weak monsoons affecting food prices
+
+Imported inflation:
+• Depreciating rupee increases import costs
+
+3. CORE VS HEADLINE
+Headline CPI includes food and fuel (volatile)
+Core CPI removes them and reflects structural pressures.
+
+4. RBI'S RESPONSE
+RBI uses repo rate increases when:
+• Core inflation sticky
+• Food inflation spills over
+• Demand overheating occurs
+
+5. RELATIONSHIP WITH GROWTH
+• Mild inflation encourages investment
+• High inflation → lower real incomes
+• Disinflation phase boosts consumption
+
+6. INFLATION EXPECTATIONS
+Anchoring expectations is crucial.
+RBI influences expectations through:
+• Forward guidance
+• Consistent policy stance
+

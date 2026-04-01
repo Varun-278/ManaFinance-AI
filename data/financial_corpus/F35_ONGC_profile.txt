@@ -1,0 +1,42 @@
+Company: Oil & Natural Gas Corporation Ltd.
+Industry: Energy (Upstream Oil & Gas Exploration)
+ISIN: INE213A01029
+Symbol: ONGC
+
+1. Business Overview
+ONGC is India's largest oil & gas explorer engaged in offshore/onshore exploration, production, and gas development. It supplies crude to domestic refiners and holds major stakes in overseas assets via OVL.
+
+2. Revenue Drivers
+- Crude oil production volumes.
+- Realizations linked to global Brent prices.
+- Natural gas pricing.
+- Petroleum subsidy sharing (periodic).
+
+3. Cost Structure
+- Exploration and drilling.
+- Offshore logistics.
+- Employee and operational expenses.
+
+4. Competitive Strength
+- Largest resource base in India.
+- Strategic upstream monopoly-like position.
+- Access to cheaper domestic crude for refiners.
+
+5. Risks
+- Brent price volatility affects profitability.
+- Decline in mature fields.
+- Government intervention in pricing.
+
+6. Dataset Behavior
+- Cyclical price patterns with high sensitivity to oil markets.
+- High volumes during global crude shocks.
+
+7. Financial Theory Interpretation
+ONGC mirrors:
+- Upstream commodity price exposure,
+- Earnings linked to global cycles.
+
+8. Outlook
+- Enhanced oil recovery,
+- Deepwater exploration,
+- Transition toward gas and renewables.

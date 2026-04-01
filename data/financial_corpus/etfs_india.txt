@@ -1,0 +1,34 @@
+EXCHANGE-TRADED FUNDS (ETFs) IN INDIA 
+
+1. CHARACTERISTICS
+ETFs combine features of:
+- Mutual funds (diversification)
+- Stocks (real-time trading)
+
+2. TYPES OF ETFs
+- Equity ETFs (NIFTY50, BANKNIFTY)
+- Debt ETFs (short-term bonds, PSU bonds)
+- Gold ETFs
+- International ETFs
+- Thematic ETFs
+
+3. CREATION/REDEMPTION MECHANISM
+Authorized Participants (APs) create units by delivering baskets of securities.
+
+4. ADVANTAGES
+- Lower expense ratios
+- Transparency
+- Liquidity
+- Intraday price discovery
+
+5. TRACKING ERROR
+Difference between ETF returns and its index.
+Caused by:
+- Cash drag
+- Rebalancing costs
+- Liquidity issues
+
+6. RISKS
+- Market risk  
+- Tracking risk  
+- Liquidity mismatch  

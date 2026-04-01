@@ -1,0 +1,43 @@
+Company: State Bank of India
+Industry: Banking (Public Sector)
+ISIN: INE062A01020
+Symbol: SBIN
+
+1. Business Overview
+SBI is India’s largest bank with massive branch presence, corporate and retail lending, treasury operations, and subsidiaries in insurance, mutual funds, and cards.
+
+2. Revenue Drivers
+- Retail and corporate loan book.
+- Treasury income.
+- Fee income from payments, cards, and distribution.
+
+3. Cost Structure
+- Deposits interest costs.
+- Credit provisions (large due to corporate exposure).
+- Employee expenses (higher vs private peers).
+
+4. Competitive Advantages
+- Largest deposit franchise in India.
+- Strong brand trust.
+- CASA dominance enabling lower funding costs.
+
+5. Risks
+- Cyclicality in corporate NPAs.
+- PSU governance limitations.
+- Competition from private banks.
+
+6. Dataset Behavior
+- High liquidity stock,
+- Strong cyclical uptrend during credit growth cycles,
+- Higher beta than private banks.
+
+7. Financial Theory Interpretation
+Valuation depends on:
+- Credit cycle improvement,
+- GNPA reductions,
+- ROE expansion.
+
+8. Outlook
+- Strong retail loan growth,
+- Improvement in asset quality,
+- Digital transformation strengthening efficiency.

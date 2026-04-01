@@ -1,0 +1,272 @@
+SECTOR REPORT — ENERGY (OIL, GAS, POWER, INTEGRATED ENERGY, INDIA)
+------------------------------------------------------------------
+
+1. Sector Overview
+The Indian energy sector spans oil & gas, refining and marketing (R&M), petrochemicals, upstream exploration & production (E&P), and power generation & transmission. It is systemically important because it:
+- Fuels transportation and industrial activity,
+- Powers households and digital infrastructure,
+- Drives a large portion of India’s import bill.
+
+NIFTY50 companies in this sector:
+- BPCL       (Bharat Petroleum Corporation Ltd.) — OMC, refining & marketing
+- GAIL       (GAIL (India) Ltd.) — Gas transmission & marketing
+- IOC        (Indian Oil Corporation Ltd.) — OMC, refining & marketing
+- NTPC       (NTPC Ltd.) — Power generation (thermal + renewable)
+- ONGC       (Oil & Natural Gas Corporation Ltd.) — Upstream E&P
+- POWERGRID  (Power Grid Corporation of India Ltd.) — Power transmission
+- RELIANCE   (Reliance Industries Ltd.) — Integrated energy & petrochemicals; diversified into retail & telecom
+
+The sector is heavily influenced by:
+- Global crude oil and gas prices,
+- Domestic demand growth,
+- Government regulation and subsidies,
+- Energy transition policies (renewables, decarbonization).
+
+2. Sub-Sector Classification
+For clarity:
+
+(1) Upstream:
+- ONGC  
+  Explores and produces crude oil and natural gas.
+
+(2) Refining & Marketing (Downstream OMCs):
+- IOCL (IOC)
+- BPCL  
+
+Refine crude into fuels (petrol, diesel, ATF, LPG) and market them through large retail networks.
+
+(3) Gas Transmission & Marketing:
+- GAIL  
+  Owns and operates gas pipelines, markets natural gas, LNG, petrochemicals.
+
+(4) Power Generation:
+- NTPC  
+  Dominantly coal-based, increasingly adding renewables.
+
+(5) Power Transmission:
+- POWERGRID  
+  Owns and operates inter-state and inter-regional power transmission lines.
+
+(6) Integrated Energy + Petrochemicals:
+- RELIANCE  
+  Integrated refining, petrochemicals, oil & gas, plus large investments in new energy, retail, and telecom.
+
+3. Business Model Summary
+
+Upstream (ONGC):
+- Revenue: Sale of crude oil and natural gas.
+- Profitability: Driven by global oil/gas prices, lifting costs, taxes and royalties.
+- Key levers: Reserve replacement ratio, cost-efficient production, government price policies.
+
+OMCs (IOC, BPCL):
+- Revenue: Sales of refined petroleum products.
+- Profitability: Gross refining margin (GRM), marketing margins, inventory gains/losses.
+- Key levers: Crude sourcing, refinery complexity, pricing freedom vs regulation.
+
+Gas Utilities (GAIL):
+- Revenue: Transmission tariffs + marketing margins on gas sold.
+- Profitability: Linked to pipeline utilization, LNG contracts, spot vs contracted prices.
+
+Power Generation (NTPC):
+- Revenue: Long-term power purchase agreements (PPAs) signed with state discoms.
+- Profitability: Regulated returns model (cost-plus with assured returns on equity).
+- Key levers: Plant load factors (PLF), fuel cost pass-through, capacity addition.
+
+Power Transmission (POWERGRID):
+- Revenue: Transmission charges under regulated returns framework.
+- Profitability: Stable, annuity-like with high visibility.
+- Key levers: Capex execution and asset utilization.
+
+Integrated Energy (RELIANCE — energy leg):
+- Revenue: Refining, petrochemicals, fuel retail, plus new energy.
+- Profitability: Complex refineries with high GRMs, integrated petrochemical margins.
+- Key levers: Refining complexity, feedstock optimization, product mix.
+
+4. Key Performance Metrics
+
+Upstream (ONGC):
+- Realized crude and gas price (USD/barrel, $/mmbtu).
+- Production volumes (oil + gas).
+- Lifting costs (cost per barrel).
+- Reserve replacement ratio.
+- EBITDA margin, ROCE.
+
+Refining & Marketing (IOC, BPCL, RELIANCE’s refining segment):
+- GRM (Gross Refining Margin): $/barrel.
+- Refinery throughput.
+- Marketing margins on retail fuels.
+- Inventory gains/losses (due to crude price movements).
+- Debt metrics, especially during capex cycles.
+
+Gas (GAIL):
+- Pipeline throughput (mmscmd).
+- Transmission tariff and utilization (%).
+- Petchem segment margins.
+- LNG contract economics.
+
+Power Generation (NTPC):
+- Installed capacity (MW).
+- Plant Load Factor (PLF).
+- Regulated RoE (return on equity).
+- Fuel supply security (coal linkages, imports).
+- Environmental compliance.
+
+Power Transmission (POWERGRID):
+- Line length and transformation capacity.
+- Regulated tariff base.
+- Capital employed and RoE under regulated model.
+- System availability (reliability metrics).
+
+Integrated/Consolidated (RELIANCE):
+- Segment-wise EBIT (refining, petchem, oil & gas, digital, retail).
+- Complex refining margins vs global benchmarks.
+- Petrochemical spreads.
+- Leverage and cash flow from operations.
+
+5. Industry Structure & Competition
+
+- Upstream:
+  ONGC is India’s dominant domestic upstream player; competition exists from Cairn/others but ONGC is strategic and state-backed.
+
+- OMCs:
+  IOCL, BPCL, and HPCL (not in your NIFTY list) collectively dominate fuel retail. Private players (Reliance, Nayara) have smaller but high-margin presence when pricing freedom exists.
+
+- Gas:
+  GAIL dominates long-distance gas pipelines; city gas distributors like IGL, MGL (not in NIFTY50 here) handle last-mile.
+
+- Power Generation:
+  NTPC is the largest thermal power generator; private IPPs also operate but may face higher stress.
+
+- Power Transmission:
+  POWERGRID is the backbone of India’s interstate transmission network.
+
+- RELIANCE:
+  A unique player with scale advantages in refining and petchem, plus large diversification into non-energy businesses (Jio, Retail).
+
+6. Sector Growth Drivers
+
+- Rising Energy Demand:
+  Driven by GDP growth, urbanization, industrialization, and rising per capita energy consumption.
+
+- Policy Push:
+  - Gas-based economy initiatives.
+  - Renewables and green hydrogen policies.
+  - Electrification of mobility.
+
+- Infrastructure Expansion:
+  - New pipelines (gas).
+  - Transmission lines integration (POWERGRID).
+  - Refinery capacity upgrades and petrochem diversification.
+
+- Pricing and Deregulation:
+  - Deregulated pricing for petrol and diesel (with political intervention risk).
+  - Market-linked gas pricing frameworks evolving.
+
+7. Key Risks
+
+- Global Crude Volatility:
+  Impacts upstream realizations and OMC margins (short-term inventory gains/losses).
+
+- Regulatory and Political Risk:
+  Government may intervene in fuel pricing to manage inflation, compressing OMC marketing margins.
+
+- Energy Transition Risk:
+  Long-term structural risk for fossil-fuel-heavy portfolios as renewables and EVs grow.
+
+- Environmental & ESG Constraints:
+  Stricter emission norms, carbon taxes, and climate commitments can raise costs.
+
+- Counterparty Risk:
+  State electricity distribution companies (discoms) as counterparties for NTPC/POWERGRID.
+
+8. Cyclicality & Sensitivity
+
+- Upstream (ONGC):
+  Highly cyclical with crude price; earnings can vary sharply with oil cycles.
+
+- OMCs (IOC, BPCL):
+  Cyclical based on refining margins and policy action; medium volatility.
+
+- Power Gen/Trans (NTPC, POWERGRID):
+  More defensive/utility-like with regulated returns; lower earnings volatility.
+
+- Integrated Energy (RELIANCE energy segment):
+  Profits tied to refining and petchem cycles, but overall consolidated volatility is reduced by diversification into telecom and retail.
+
+9. Evaluation Checklist by Sub-Sector
+
+Upstream (ONGC):
+- Realizations vs global prices.
+- Cost discipline and lifting costs.
+- Production growth and reserves.
+- Regulatory/tax changes.
+
+OMCs (IOC, BPCL):
+- Average GRMs vs Singapore benchmark.
+- Marketing margin stability.
+- Debt and capex for upgrades.
+- Government compensation during under-recoveries (if any).
+
+Power Generation (NTPC):
+- PLF and availability.
+- Fuel tie-ups and coal linkage security.
+- Growth pipeline in renewables.
+- Receivables from discoms.
+
+Power Transmission (POWERGRID):
+- Regulated equity base and RoE.
+- Execution track record in adding capacity.
+- System reliability.
+
+Integrated (RELIANCE energy segments):
+- Refining complexity and GRM outperformance.
+- Petrochemical cycle position.
+- Cash flows from operations and funding of new energy projects.
+
+10. RAG-Friendly Factual Blocks
+
+Examples of atomic knowledge that are perfect for your corpus:
+
+- “Gross Refining Margin (GRM) measures the difference between the value of refined petroleum products and the cost of crude oil.”
+- “Under a regulated return model, transmission utilities like POWERGRID earn a fixed RoE on approved capital employed, making cash flows predictable.”
+- “OMCs face risk of margin compression when international fuel prices rise faster than domestic retail price adjustments.”
+- “Upstream companies like ONGC are positively correlated with crude prices; higher prices directly improve realizations and profits, subject to tax and subsidy structures.”
+- “NTPC’s earnings stability comes from long-term PPAs where fuel costs are largely passed through to discoms, while returns are earned on regulated equity.”
+
+11. Sector-Level Scenarios (For LLM Price-Action Explanations)
+
+Scenario A — Global crude spikes sharply:
+- ONGC earnings rise (higher realizations),
+- OMCs face marketing margin pressure if retail prices are not fully passed on,
+- Refining margins can either benefit (if cracks expand) or suffer (if demand falls),
+- Inflation risk rises, impacting macro sentiment.
+
+Scenario B — Energy transition accelerates:
+- Long-run structural demand risk for fossil fuels,
+- Increased capex in renewables by NTPC, RELIANCE, and others,
+- Power and transmission demand grows as electrification rises.
+
+Scenario C — Domestic growth boom:
+- Higher fuel consumption,
+- Rising electricity demand,
+- Better PLFs for NTPC,
+- Greater pipeline utilization for GAIL.
+
+12. Quick Company-Level Snapshot (NIFTY50 Energy Names)
+
+- ONGC:
+  Core upstream E&P; earnings geared to crude/gas prices.
+- IOC:
+  Largest refiner and marketer; scale + PSU; margin sensitive to policy.
+- BPCL:
+  OMC with robust retail network; subject to divestment narratives and policy.
+- GAIL:
+  Key gas pipeline operator; plays central role in gas-based economy vision.
+- NTPC:
+  Largest power generator; stable regulated business; pivoting to renewables.
+- POWERGRID:
+  Dominant transmission utility; stable RoE, quasi-bond-like characteristics.
+- RELIANCE (energy leg):
+  Complex refiner and petchem giant; integrated with global energy and chemical cycles, but diversified by Jio and Retail segments.
+
+End of document.

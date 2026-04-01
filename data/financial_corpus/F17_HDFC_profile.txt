@@ -1,0 +1,45 @@
+Company: Housing Development Finance Corporation Ltd.
+Industry: Financial Services (Housing Finance)
+ISIN: INE001A01036
+Symbol: HDFC
+
+1. Business Overview
+HDFC (before merging with HDFC Bank) was India's largest housing finance institution focused on retail home loans, project loans, and affordable housing financing.
+
+2. Revenue Drivers
+- Interest income on home loans.
+- Fee income from insurance and investment products.
+- Spread between lending rates and borrowing costs.
+
+3. Cost Structure
+- Borrowing costs (NCDs, deposits via subsidiaries).
+- Credit provisions for NPAs.
+- Operating expenses (distribution and origination).
+
+4. Competitive Strengths
+- Very low NPA levels historically.
+- Strong underwriting discipline.
+- Large retail customer base with high repayment behavior.
+
+5. Risks
+- Sensitivity to interest rate cycles.
+- Real estate sector cyclicality.
+- Competition from banks and NBFCs.
+
+6. Dataset Behavior
+- Low volatility, stable uptrend consistent with financial stability.
+- Volume pickups around merger-related announcements.
+
+7. Financial Theory Interpretation
+HDFC resembles:
+- A mortgage REIT-like lender with stable cash flows,
+- Spread-based business (lending–borrowing margin).
+
+Key valuation metrics:
+- Net interest margin (NIM),
+- Loan book growth,
+- Asset quality.
+
+8. Outlook
+- Integration benefits with HDFC Bank.
+- Scale-driven efficiency improvements.

@@ -1,0 +1,64 @@
+EQUITY MARKETS IN INDIA
+
+1. ROLE OF EQUITY MARKETS
+Equity markets facilitate capital formation by allowing companies to raise funds through public
+offerings. They improve liquidity, price discovery, and resource allocation efficiency.
+
+2. PRIMARY MARKET
+Key components:
+- IPO (Initial Public Offering)
+- FPO (Follow-on Public Offering)
+- Rights issues
+- QIP (Qualified Institutional Placement)
+- Book building mechanism
+
+3. SECONDARY MARKET
+The secondary market enables trading of listed securities.  
+Key factors influencing secondary market performance:
+- Corporate earnings  
+- Monetary policy  
+- Global macro conditions  
+- FPI flows  
+- Sector rotations  
+
+4. MARKET MICROSTRUCTURE
+Indian equities use a fully electronic limit order book.
+
+Key elements:
+- Bid/ask spread  
+- Market depth  
+- Tick size  
+- Impact cost  
+- Latency  
+
+5. FUNDAMENTAL ANALYSIS FACTORS
+Analysts evaluate:
+- Revenue growth  
+- Profit margins  
+- ROE/ROCE  
+- Cash flows  
+- Competitive moats (moat analysis)  
+- Management quality  
+
+6. TECHNICAL ANALYSIS FACTORS
+Traders analyze:
+- Price action  
+- Support / resistance  
+- Moving averages  
+- Volatility  
+- Volume patterns  
+- Breakouts and trend reversals  
+
+7. MARKET STYLE FACTORS
+Common equity factors:
+- Value  
+- Growth  
+- Momentum  
+- Quality  
+- Volatility  
+
+8. RISKS
+- Liquidity risk  
+- Earnings shocks  
+- Geopolitical shocks  
+- Regulatory changes  

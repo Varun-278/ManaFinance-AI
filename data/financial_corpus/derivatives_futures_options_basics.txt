@@ -1,0 +1,52 @@
+DERIVATIVES 
+
+1. FUTURES CONTRACTS
+Features:
+• Exchange-traded
+• Standardized
+• Mark-to-market daily
+
+Uses:
+• Hedging
+• Speculation
+• Arbitrage (cash-futures)
+
+Key Concepts:
+• Basis = Spot – Futures
+• Cost of carry model
+• Rollovers
+
+2. OPTIONS CONTRACTS
+Call option → right to buy  
+Put option → right to sell  
+
+Greeks:
+• Delta: sensitivity to price
+• Gamma: sensitivity of delta
+• Theta: time decay
+• Vega: volatility sensitivity
+• Rho: interest rate sensitivity
+
+3. OPTION STRATEGIES
+• Covered call
+• Protective put
+• Bull call spread
+• Bear put spread
+• Straddle
+• Strangle
+• Iron condor
+
+4. VOLATILITY INDEX (INDIA VIX)
+Measures expected volatility.
+High VIX → risk-off environment.
+
+5. RISKS
+• Leverage risk
+• Volatility spikes
+• Liquidity risk
+
+6. USES IN PORTFOLIO MANAGEMENT
+• Hedge downside
+• Leverage directional bets
+• Income generation
+
